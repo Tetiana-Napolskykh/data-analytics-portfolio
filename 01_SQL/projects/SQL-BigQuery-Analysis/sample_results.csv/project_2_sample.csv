@@ -1,0 +1,9 @@
+date_event,source_name,source_medium,campaign_name,user_session_count,visit_to_cart,visit_to_checkout,visit_to_purchase
+2021-01-01,(direct),(none),(direct),23,0.0,0.0,0.0
+2021-01-01,google,organic,(organic),18,0.0,0.0,0.0
+2021-01-01,<Other>,<Other>,<Other>,17,0.0,0.0,0.0
+2021-01-01,<Other>,referral,(referral),10,0.0,0.0,0.0
+2021-01-01,shop.googlemerchandisestore.com,referral,(referral),4,0.0,0.0,0.0
+2021-01-01,<Other>,organic,(organic),4,0.0,0.0,0.0
+2021-01-01,(data deleted),(data deleted),(data deleted),3,0.0,0.0,0.0
+2021-01-01,google,cpc,<Other>,2,0.0,0.0,0.0

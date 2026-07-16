@@ -1,0 +1,1001 @@
+event_time,user_pseudo_id,session_id,event_name,country,category,source,medium,campaign_name
+2021-01-25 21:40:08.841632 UTC,1001623.3924462129,606459387,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 01:43:21.158473 UTC,1022030.8475790239,1271762262,session_start,Turkey,desktop,(direct),(none),(direct)
+2021-01-25 11:21:23.662756 UTC,1029693.4815905114,8602525023,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 06:53:58.168887 UTC,1047024.0259953069,4381150964,session_start,Russia,mobile,google,cpc,<Other>
+2021-01-25 11:52:20.496079 UTC,1047438.6833138630,2375812747,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 21:33:26.924262 UTC,1051906.5070091106,3722534481,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:39:56.931971 UTC,1062519.9395328456,1591697357,session_start,Singapore,desktop,(direct),(none),(direct)
+2021-01-25 16:27:55.262969 UTC,1068252.9478044257,262227145,session_start,India,mobile,<Other>,referral,(referral)
+2021-01-25 06:08:16.299403 UTC,1070517.4718438326,2710604754,session_start,Netherlands,mobile,google,organic,(organic)
+2021-01-25 06:08:20.434408 UTC,1070517.4718438326,2710604754,view_item,Netherlands,mobile,google,organic,(organic)
+2021-01-25 19:25:19.072942 UTC,1085487.5352237089,3829510701,session_start,Canada,desktop,<Other>,organic,(organic)
+2021-01-25 02:08:25.717511 UTC,1093141.3235321881,3651096907,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 05:52:31.138747 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:45:42.013760 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:08:16.230782 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 04:58:32.567624 UTC,1105621.2077968018,6970679488,session_start,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:17:09.766776 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:32:38.825987 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:43:42.172809 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:06:42.437835 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:00:03.641072 UTC,1105621.2077968018,6970679488,view_item,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 21:39:19.198613 UTC,1108149.8973090754,811595010,view_item,India,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:33:42.709738 UTC,1108149.8973090754,811595010,session_start,India,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:39:42.744166 UTC,1108149.8973090754,811595010,view_item,India,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 09:14:00.678528 UTC,1133005.0562222417,7175113727,session_start,Canada,mobile,(direct),(none),(direct)
+2021-01-25 08:36:44.892308 UTC,1137733.5064208361,8305652499,session_start,Israel,mobile,(direct),(none),(direct)
+2021-01-25 08:46:10.407765 UTC,1139322.9747723261,1754222116,session_start,Greece,mobile,<Other>,referral,(referral)
+2021-01-25 00:51:31.940617 UTC,1139322.9747723261,384974914,session_start,Greece,mobile,google,organic,(organic)
+2021-01-25 11:07:41.806449 UTC,1141720.0291311062,4595395038,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 13:56:35.128410 UTC,1150844.8910042304,8401163433,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 08:02:20.140671 UTC,1153133.0442960731,1062286424,session_start,United States,desktop,<Other>,organic,(organic)
+2021-01-25 19:00:15.254794 UTC,1154517.0915478228,787228268,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 22:01:18.327955 UTC,1155336.4782012844,4431996490,session_start,Canada,desktop,<Other>,<Other>,<Other>
+2021-01-25 08:01:59.190184 UTC,1173054.5925821182,7284319371,session_start,Singapore,mobile,(direct),(none),(direct)
+2021-01-25 07:40:44.416034 UTC,1181313.0938779160,7157456624,session_start,France,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 06:21:50.962155 UTC,1181313.0938779160,9450681135,session_start,France,mobile,(direct),(none),(direct)
+2021-01-25 20:55:57.806361 UTC,1193937.6888507128,122853259,session_start,United Kingdom,desktop,google,organic,(organic)
+2021-01-25 19:03:46.155282 UTC,1195209.1567132905,9076189852,session_start,Germany,desktop,google,organic,(organic)
+2021-01-25 17:47:31.717016 UTC,1195209.1567132905,6790833082,session_start,Germany,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 16:55:14.188423 UTC,1195209.1567132905,5223558383,session_start,Germany,desktop,(direct),(none),(direct)
+2021-01-25 19:50:32.623244 UTC,1196810.1091854836,9005674076,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 20:01:17.459448 UTC,1196810.1091854836,9005674076,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 14:50:17.446116 UTC,1206618.8197807716,3455793004,session_start,Algeria,desktop,google,organic,(organic)
+2021-01-25 04:20:13.207621 UTC,1207293.3970342188,2394150418,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 20:26:18.269441 UTC,1214366.0056763550,8711197256,session_start,India,desktop,google,organic,(organic)
+2021-01-25 03:10:13.865919 UTC,1219388.3054619904,6327242995,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 20:13:34.823306 UTC,1222409.1951536768,7453043758,view_item,Germany,desktop,google,organic,(organic)
+2021-01-25 20:01:25.529455 UTC,1222409.1951536768,7453043758,session_start,Germany,desktop,google,organic,(organic)
+2021-01-25 20:02:10.366039 UTC,1222409.1951536768,7453043758,view_item,Germany,desktop,google,organic,(organic)
+2021-01-25 00:08:54.577570 UTC,1235783.0015131634,6791728241,session_start,Belgium,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 10:31:39.696397 UTC,1241003.3541229619,1959129953,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 13:13:55.729328 UTC,1248292.7842894675,4425293746,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 13:56:02.798199 UTC,1250383.9154167160,5834819193,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:38:51.608626 UTC,1257778.0910586863,4739108657,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 17:20:27.679412 UTC,1260776.4405051457,7267810787,session_start,Germany,desktop,google,organic,(organic)
+2021-01-25 17:20:48.093381 UTC,1260776.4405051457,7267810787,view_item,Germany,desktop,google,organic,(organic)
+2021-01-25 17:33:56.951045 UTC,1278735.0598279162,550511321,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 16:22:04.977379 UTC,1279595.7348368743,3421466585,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 09:38:34.238404 UTC,1282586.4517477452,7284227403,session_start,El Salvador,desktop,google,cpc,<Other>
+2021-01-25 19:42:47.246078 UTC,1282829.2912367074,8302204703,add_payment_info,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:36:17.356527 UTC,1282829.2912367074,8302204703,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:22:34.118096 UTC,1282829.2912367074,8302204703,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:21:04.265368 UTC,1282829.2912367074,8302204703,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:42:26.166571 UTC,1282829.2912367074,8302204703,add_shipping_info,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:41:42.970474 UTC,1282829.2912367074,8302204703,add_shipping_info,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:17:22.454407 UTC,1282829.2912367074,8302204703,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 21:21:24.789186 UTC,1282829.2912367074,9518662070,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 19:13:25.269067 UTC,1282829.2912367074,8302204703,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:33:42.563875 UTC,1282829.2912367074,8302204703,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 20:21:06.949556 UTC,1288625.0385678086,2622691184,session_start,Japan,desktop,(direct),(none),(direct)
+2021-01-25 16:10:34.698329 UTC,1292605.2340750631,9350167180,session_start,Ireland,mobile,(direct),(none),(direct)
+2021-01-25 18:14:27.097443 UTC,1296377.4690720449,9124819612,session_start,Slovakia,desktop,<Other>,<Other>,<Other>
+2021-01-25 16:27:23.639399 UTC,1301238.8633728414,7812857618,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 07:22:54.633298 UTC,1304263.1486928900,3763800888,session_start,(not set),desktop,google,organic,(organic)
+2021-01-25 05:57:01.234046 UTC,1306458.8361479450,7193985859,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 14:10:09.415637 UTC,1333728.0047687977,2052583193,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 02:56:20.629092 UTC,1347439.3010329604,4555561808,session_start,India,desktop,google,organic,(organic)
+2021-01-25 17:01:28.543127 UTC,1349291.5439057771,2235956101,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 15:13:27.906371 UTC,1354103.4105710506,9263441009,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 17:59:19.910903 UTC,1355527.7971457995,7710188939,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:59:26.062642 UTC,1355527.7971457995,7710188939,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:07:42.018684 UTC,1356748.3775661560,2963262207,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 00:07:43.600551 UTC,1359073.4989017126,2084084243,add_shipping_info,United States,mobile,google,cpc,<Other>
+2021-01-25 00:10:34.307972 UTC,1359073.4989017126,2084084243,add_payment_info,United States,mobile,google,cpc,<Other>
+2021-01-25 00:10:19.175747 UTC,1359073.4989017126,2084084243,add_shipping_info,United States,mobile,google,cpc,<Other>
+2021-01-25 08:25:16.797055 UTC,1359073.4989017126,666441131,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 00:08:04.441445 UTC,1359073.4989017126,2084084243,add_payment_info,United States,mobile,google,cpc,<Other>
+2021-01-25 17:23:11.648883 UTC,1373915.8917210871,2282513896,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 19:17:34.829708 UTC,1388706.4585074278,5224291492,session_start,India,mobile,google,organic,(organic)
+2021-01-25 21:22:19.647627 UTC,1390128.1837890404,6480279691,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 22:20:57.922200 UTC,1393148.8324240899,5470890568,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 11:40:39.065302 UTC,1394102.7869033217,7876025284,view_item,Sweden,desktop,google,organic,(organic)
+2021-01-25 12:08:43.465746 UTC,1394102.7869033217,7876025284,add_payment_info,Sweden,desktop,google,organic,(organic)
+2021-01-25 12:08:20.551119 UTC,1394102.7869033217,7876025284,add_shipping_info,Sweden,desktop,google,organic,(organic)
+2021-01-25 11:39:07.879922 UTC,1394102.7869033217,7876025284,view_item,Sweden,desktop,google,organic,(organic)
+2021-01-25 12:10:43.022328 UTC,1394102.7869033217,7876025284,add_payment_info,Sweden,desktop,google,organic,(organic)
+2021-01-25 11:39:02.190998 UTC,1394102.7869033217,7876025284,session_start,Sweden,desktop,google,organic,(organic)
+2021-01-25 11:39:59.885364 UTC,1394102.7869033217,7876025284,view_item,Sweden,desktop,google,organic,(organic)
+2021-01-25 12:07:06.542875 UTC,1394102.7869033217,7876025284,add_shipping_info,Sweden,desktop,google,organic,(organic)
+2021-01-25 11:41:28.869678 UTC,1394102.7869033217,7876025284,view_item,Sweden,desktop,google,organic,(organic)
+2021-01-25 11:41:03.873928 UTC,1394102.7869033217,7876025284,view_item,Sweden,desktop,google,organic,(organic)
+2021-01-25 20:51:12.853925 UTC,1396123.1075561416,9239162429,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 14:45:01.841560 UTC,1396850.8884589658,2413266373,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 14:45:01.050567 UTC,1396850.8884589658,2413266373,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 07:47:43.232524 UTC,1396994.4404440181,1236995848,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 14:54:10.518350 UTC,1398584.5376458976,3292989103,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 18:23:19.834061 UTC,1401390.7195042159,3272987839,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 13:00:03.537592 UTC,1406421.2511832403,2945457463,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 16:52:33.088441 UTC,1408835.6202587089,3335615513,session_start,China,desktop,<Other>,referral,(referral)
+2021-01-25 09:44:20.168988 UTC,1418660.4247480453,6513883986,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 09:44:19.967937 UTC,1418660.4247480453,6513883986,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 12:34:54.150783 UTC,1422491.2951263543,5092713444,session_start,Brazil,desktop,google,cpc,<Other>
+2021-01-25 12:34:56.418529 UTC,1422491.2951263543,5092713444,view_item,Brazil,desktop,google,cpc,<Other>
+2021-01-25 13:57:18.926078 UTC,1427454.0888073871,1474519636,session_start,Canada,desktop,<Other>,organic,(organic)
+2021-01-25 05:58:14.081477 UTC,1430697.6618112677,6131109620,session_start,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 17:12:44.676564 UTC,1431434.5042581019,8490222107,session_start,Portugal,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 16:23:16.097063 UTC,1431434.5042581019,8564219688,session_start,Portugal,desktop,<Other>,<Other>,<Other>
+2021-01-25 18:12:13.107383 UTC,1431434.5042581019,3852065948,session_start,Portugal,desktop,google,organic,(organic)
+2021-01-25 02:42:24.996371 UTC,1434309.5950776172,5522408494,session_start,Canada,desktop,<Other>,organic,(organic)
+2021-01-25 03:16:36.020857 UTC,1434309.5950776172,9345117891,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 20:24:46.713177 UTC,1444089.0339599254,5596581590,session_start,Russia,tablet,<Other>,referral,(referral)
+2021-01-25 03:04:41.519358 UTC,1451816.4361560780,9874100214,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 03:04:46.288008 UTC,1451816.4361560780,9874100214,view_item,United States,desktop,google,cpc,<Other>
+2021-01-25 16:25:44.035775 UTC,1454297.7422595026,5171314501,session_start,Singapore,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 02:15:00.061417 UTC,1455357.3151328451,3282829373,session_start,Canada,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:08:45.363695 UTC,1455714.3536794427,7673435416,session_start,Spain,desktop,google,organic,(organic)
+2021-01-25 15:15:28.295462 UTC,1473017.2678658659,91540197,session_start,Ukraine,mobile,google,organic,(organic)
+2021-01-25 04:50:09.210984 UTC,1475469.4795386987,5202848226,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 13:17:13.498817 UTC,1478362.4248745871,8908137685,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:09:26.160643 UTC,1484257.8052292428,5227286046,session_start,Italy,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 08:02:27.335831 UTC,1484359.9129869227,9108926064,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 19:57:11.943386 UTC,1493946.8727720157,130408458,session_start,Chile,desktop,google,organic,(organic)
+2021-01-25 03:45:37.828493 UTC,1498497.6498133915,4201490380,session_start,India,mobile,google,organic,(organic)
+2021-01-25 06:23:33.241409 UTC,1521836.8862158208,6817985746,session_start,China,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 22:28:29.528581 UTC,1523115.8731977033,2535071316,session_start,China,desktop,google,organic,(organic)
+2021-01-25 02:42:51.917957 UTC,1527837.0294136016,6993124326,view_item,Poland,desktop,(direct),(none),(direct)
+2021-01-25 02:42:49.493721 UTC,1527837.0294136016,6993124326,session_start,Poland,desktop,(direct),(none),(direct)
+2021-01-25 17:35:10.662324 UTC,1532451.3893424727,7007838551,session_start,Switzerland,mobile,<Other>,<Other>,<Other>
+2021-01-25 12:20:37.686518 UTC,1534206.3066210363,6178544824,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 11:23:22.413261 UTC,1534206.3066210363,219465059,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 06:10:13.653303 UTC,1535282.7086703290,932096214,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 21:58:07.846663 UTC,1537200.9559704659,5244685922,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 12:03:36.612469 UTC,1557458.9227765124,9086270837,view_item,Portugal,mobile,(direct),(none),(direct)
+2021-01-25 12:03:31.585376 UTC,1557458.9227765124,9086270837,session_start,Portugal,mobile,(direct),(none),(direct)
+2021-01-25 01:24:26.942448 UTC,1560712.8622412972,3430691938,session_start,Germany,desktop,google,organic,(organic)
+2021-01-25 07:45:32.978425 UTC,1573814.8026071322,9830348886,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 08:45:10.681410 UTC,1576141.8906092147,2299012454,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 14:54:33.092978 UTC,1577046.6467836250,1392247865,session_start,Hong Kong,desktop,google,organic,(organic)
+2021-01-25 19:14:26.080921 UTC,1586212.3780508297,7640838460,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 06:05:35.610330 UTC,1588068.3626167633,5262463703,session_start,India,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:00:19.264443 UTC,1590119.5839722940,997332266,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 22:58:51.020582 UTC,1592568.0529696797,913922714,view_item,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 22:54:34.624154 UTC,1592568.0529696797,913922714,session_start,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 22:59:31.433999 UTC,1592568.0529696797,913922714,view_item,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 09:41:02.277545 UTC,1593703.0729456951,7492948961,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 12:51:51.218727 UTC,1605578.8107690426,5922807417,session_start,Brazil,desktop,<Other>,organic,(organic)
+2021-01-25 18:25:31.772905 UTC,1611894.3911775611,3503028726,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 20:28:18.527544 UTC,1612131.5075939770,4694413995,session_start,China,mobile,(direct),(none),(direct)
+2021-01-25 23:05:52.184099 UTC,1612807.0379836428,3763759154,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:10:44.999868 UTC,1612807.0379836428,3763759154,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:10:41.155071 UTC,1612807.0379836428,3763759154,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:04:50.939949 UTC,1612807.0379836428,3763759154,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:10:29.046842 UTC,1612807.0379836428,3763759154,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 00:34:56.775485 UTC,1616428.2230535036,6423193208,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 00:29:16.791959 UTC,1616428.2230535036,6423193208,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 09:12:01.469272 UTC,1624051.4784544022,5500129846,session_start,France,desktop,google,organic,(organic)
+2021-01-25 09:12:02.100583 UTC,1624051.4784544022,5500129846,view_item,France,desktop,google,organic,(organic)
+2021-01-25 14:56:16.587545 UTC,1631937.5426151197,6573178795,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 11:21:06.948034 UTC,1631937.5426151197,9576635233,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 11:22:38.033803 UTC,1631937.5426151197,9576635233,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 10:03:17.143130 UTC,1637989.7537885207,6893189973,session_start,Turkey,mobile,google,cpc,<Other>
+2021-01-25 07:01:37.764353 UTC,1645609.9154596123,7632188309,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 07:01:33.052942 UTC,1645609.9154596123,7632188309,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 05:13:39.103196 UTC,1647868.7448419594,2812433197,session_start,United States,mobile,google,cpc,<Other>
+2021-01-25 15:59:03.737710 UTC,1655215.8341861836,8771984005,session_start,Thailand,mobile,(direct),(none),(direct)
+2021-01-25 06:39:34.887269 UTC,1666289.0491054640,6213684511,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:42:01.822245 UTC,1673503.7851590906,7182663334,session_start,Russia,mobile,google,organic,(organic)
+2021-01-25 19:25:02.641121 UTC,1682228.0338590140,3336942033,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 19:25:07.678092 UTC,1682228.0338590140,3336942033,view_item,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 11:17:57.647928 UTC,1688105.0620127144,320307367,session_start,Japan,desktop,<Other>,organic,(organic)
+2021-01-25 11:18:02.657706 UTC,1688105.0620127144,320307367,view_item,Japan,desktop,<Other>,organic,(organic)
+2021-01-25 16:14:12.225331 UTC,1704278.7849134818,9565980634,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 04:57:42.826336 UTC,1709385.9828496043,5586394221,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 03:54:42.796950 UTC,1709385.9828496043,7698946593,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 19:28:51.064116 UTC,1709385.9828496043,9467233864,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:03:35.538056 UTC,1709385.9828496043,9942335108,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:19:00.676588 UTC,1709385.9828496043,6573552572,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:13:01.392963 UTC,1713684.5214769307,1282009154,session_start,India,desktop,google,organic,(organic)
+2021-01-25 12:53:17.978155 UTC,1719486.7857183625,9381486840,session_start,Mexico,mobile,(direct),(none),(direct)
+2021-01-25 01:37:38.358309 UTC,1722250.2091568860,7191654256,session_start,Canada,desktop,<Other>,referral,(referral)
+2021-01-25 13:06:47.864493 UTC,1732636.9413766498,2453340179,session_start,France,desktop,(direct),(none),(direct)
+2021-01-25 13:06:47.890200 UTC,1732636.9413766498,2453340179,view_item,France,desktop,(direct),(none),(direct)
+2021-01-25 18:19:51.833619 UTC,1737414.5118023309,8141187199,session_start,China,desktop,(direct),(none),(direct)
+2021-01-25 18:23:27.517618 UTC,1741968.7963781825,719392991,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 21:45:12.652505 UTC,1741968.7963781825,2545121022,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:38:26.080233 UTC,1741968.7963781825,4799330089,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 08:29:47.763350 UTC,1747351.1602212763,7543165881,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 00:03:10.416587 UTC,1766714.3425040675,5239237969,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 16:55:06.222825 UTC,1771896.7375866433,6488384067,session_start,(not set),desktop,(direct),(none),(direct)
+2021-01-25 23:12:35.012284 UTC,1772504.2905108575,3712896208,session_start,Switzerland,desktop,(direct),(none),(direct)
+2021-01-25 14:40:08.985795 UTC,1773448.9950275418,4683860181,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 01:01:01.593166 UTC,1774113.5513602084,9410898568,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 15:38:07.993167 UTC,1774447.3036063304,4837723003,session_start,Ireland,desktop,(direct),(none),(direct)
+2021-01-25 07:10:23.693426 UTC,1778063.1676782479,5827941478,session_start,United Kingdom,mobile,<Other>,<Other>,<Other>
+2021-01-25 08:43:48.066644 UTC,1778222.3456149053,5227147591,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 08:49:20.706438 UTC,1778222.3456149053,5227147591,add_shipping_info,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 02:50:40.060172 UTC,1791533.1969515132,428621265,session_start,Belgium,mobile,google,cpc,<Other>
+2021-01-25 21:57:51.210630 UTC,1806399.4725727058,837193981,add_payment_info,Taiwan,mobile,google,organic,(organic)
+2021-01-25 21:42:18.840916 UTC,1806399.4725727058,837193981,session_start,Taiwan,mobile,google,organic,(organic)
+2021-01-25 21:57:00.370922 UTC,1806399.4725727058,837193981,add_shipping_info,Taiwan,mobile,google,organic,(organic)
+2021-01-25 21:57:32.404724 UTC,1806399.4725727058,837193981,add_shipping_info,Taiwan,mobile,google,organic,(organic)
+2021-01-25 00:06:34.131694 UTC,1818492.4232761214,3248855209,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 00:03:12.350921 UTC,1819276.7132279730,5610393011,session_start,New Zealand,mobile,(direct),(none),(direct)
+2021-01-25 19:53:23.475995 UTC,1821211.3118354969,3222166985,session_start,Israel,mobile,google,organic,(organic)
+2021-01-25 21:27:12.872025 UTC,1821211.3118354969,5659794762,session_start,Israel,mobile,<Other>,<Other>,<Other>
+2021-01-25 10:37:51.704954 UTC,1829020.3161676975,9814418923,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 11:44:37.234911 UTC,1835311.3955349126,4676955615,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 05:16:15.056796 UTC,1848530.3521466395,1688428502,session_start,United States,tablet,<Other>,<Other>,<Other>
+2021-01-25 05:41:36.622420 UTC,1852077.4391726667,9635617817,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 23:17:22.122561 UTC,1855251.2986366734,6969891357,view_item,Sweden,mobile,google,organic,(organic)
+2021-01-25 23:14:55.634875 UTC,1855251.2986366734,6969891357,session_start,Sweden,mobile,google,organic,(organic)
+2021-01-25 05:31:53.311814 UTC,1857226.6789917926,421613053,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 04:03:28.335793 UTC,1860954.1082510784,7154075212,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 09:34:43.674272 UTC,1877210.3902132775,7843500269,view_item,India,mobile,google,cpc,<Other>
+2021-01-25 09:34:57.007651 UTC,1877210.3902132775,7843500269,view_item,India,mobile,google,cpc,<Other>
+2021-01-25 09:34:38.662601 UTC,1877210.3902132775,7843500269,session_start,India,mobile,google,cpc,<Other>
+2021-01-25 08:16:29.453855 UTC,1887911.7398543352,2961882098,session_start,Germany,mobile,<Other>,<Other>,<Other>
+2021-01-25 19:01:00.216721 UTC,1901978.4045405392,2157708093,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 03:12:26.586402 UTC,1907691.9370445950,1217536786,session_start,India,desktop,google,organic,(organic)
+2021-01-25 13:55:53.390869 UTC,1915055.1558924886,99688975,session_start,Mexico,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:37:30.078328 UTC,1924595.6444212574,1791744656,session_start,Uruguay,desktop,<Other>,<Other>,<Other>
+2021-01-25 21:33:11.304577 UTC,1925678.9537859370,3128749409,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 13:45:20.256194 UTC,1925991.8638008514,705991237,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:01:46.612278 UTC,1931484.3655833874,6996717036,session_start,Greece,mobile,google,organic,(organic)
+2021-01-25 22:44:57.132108 UTC,1947201.9662748856,4434619202,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 14:45:03.237902 UTC,1952126.8262083265,8159828366,session_start,Spain,mobile,(direct),(none),(direct)
+2021-01-25 21:16:06.060059 UTC,1954115.2566455939,3276179588,session_start,Taiwan,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 09:38:30.305685 UTC,1966636.1188736583,3020952952,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 19:25:02.388643 UTC,1969208.4518767136,1152448757,session_start,Portugal,desktop,google,organic,(organic)
+2021-01-25 14:16:25.467280 UTC,1973283.0317618567,6597337426,session_start,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 06:08:43.950525 UTC,1973283.0317618567,9452922790,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 23:07:28.662069 UTC,1975339.9986731261,3945938148,session_start,Israel,desktop,(direct),(none),(direct)
+2021-01-25 02:26:40.562989 UTC,1982776.2318316882,5616225735,session_start,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 02:39:52.300412 UTC,1983860.2214103216,1477964883,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 02:39:56.778432 UTC,1983860.2214103216,1477964883,view_item,India,mobile,(direct),(none),(direct)
+2021-01-25 17:31:08.975339 UTC,1986605.6771233145,7919260234,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 14:13:00.127422 UTC,1995260.2808317473,8487366467,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 12:20:04.618901 UTC,1997185.8217663883,7050412796,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 05:50:54.382037 UTC,2008917.2312336566,4210979066,session_start,United Kingdom,mobile,(direct),(none),(direct)
+2021-01-25 05:50:57.548510 UTC,2008917.2312336566,4210979066,view_item,United Kingdom,mobile,(direct),(none),(direct)
+2021-01-25 23:37:38.003029 UTC,2008917.2312336566,6933541568,view_item,United Kingdom,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:37:37.079771 UTC,2008917.2312336566,6933541568,session_start,United Kingdom,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 14:30:55.223096 UTC,2009531.5501290378,8549995093,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 09:29:07.302431 UTC,2010607.8515056385,6170944897,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:29:08.840496 UTC,2010607.8515056385,6170944897,view_item,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 08:14:46.539488 UTC,2021745.2333380177,7715913767,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 03:53:32.529294 UTC,2035808.3079032775,4087296718,session_start,United States,mobile,google,cpc,<Other>
+2021-01-25 11:16:28.647879 UTC,2041518.4120755728,8806138349,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 11:17:17.065332 UTC,2041518.4120755728,8806138349,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 11:15:47.092744 UTC,2041518.4120755728,8806138349,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 11:21:33.997355 UTC,2041518.4120755728,8806138349,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 17:12:18.277909 UTC,2042171.9051514219,3698967463,session_start,Germany,mobile,<Other>,referral,(referral)
+2021-01-25 14:48:36.682790 UTC,2046222.5397488793,3973138174,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 05:39:22.450325 UTC,2049564.7892328799,2765609057,view_item,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 05:39:17.356248 UTC,2049564.7892328799,2765609057,session_start,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 11:12:59.861233 UTC,2063079.5586760696,3176039002,view_item,India,mobile,google,organic,(organic)
+2021-01-25 11:12:54.713513 UTC,2063079.5586760696,3176039002,session_start,India,mobile,google,organic,(organic)
+2021-01-25 11:12:59.733781 UTC,2063079.5586760696,3176039002,view_item,India,mobile,google,organic,(organic)
+2021-01-25 11:13:19.224808 UTC,2063079.5586760696,3176039002,view_item,India,mobile,google,organic,(organic)
+2021-01-25 06:43:55.664615 UTC,2063300.6228615820,6289426073,session_start,China,desktop,google,organic,(organic)
+2021-01-25 03:48:48.586085 UTC,2075030.2835550763,9220357648,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 17:09:03.970133 UTC,2084772.4022135497,2416014786,session_start,Denmark,mobile,<Other>,<Other>,<Other>
+2021-01-25 10:03:26.893269 UTC,2089668.3440285415,3792620940,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:19:20.745351 UTC,2098550.6766127979,7757295834,session_start,Germany,mobile,google,organic,(organic)
+2021-01-25 13:08:46.062249 UTC,2106874.9301051439,8310459189,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 11:10:51.664972 UTC,2108425.3051773076,8710017779,session_start,United Kingdom,mobile,<Other>,referral,(referral)
+2021-01-25 02:40:31.884687 UTC,2128595.8058890241,5220697941,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 02:57:46.049687 UTC,2130192.2168251243,1761057682,session_start,France,desktop,(direct),(none),(direct)
+2021-01-25 23:38:20.273779 UTC,2131608.6965071081,925887573,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 02:05:14.458979 UTC,2139665.7982725276,2449054805,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 05:47:11.929997 UTC,2140048.9644848550,633456453,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 05:47:16.369633 UTC,2140048.9644848550,633456453,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 02:04:31.541253 UTC,2145047.9175429648,8306237238,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 05:52:19.622051 UTC,2145047.9175429648,1114669088,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 04:33:42.136718 UTC,2145932.4879099874,9781415311,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 18:17:27.711877 UTC,2146706.3961731197,8594399754,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 19:02:41.706798 UTC,2147311.9175429648,59658434,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 15:10:10.363797 UTC,2155434.5538814023,206434342,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 10:35:14.144678 UTC,2177411.7525743801,5616292541,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 14:25:22.259874 UTC,2189246.7131725512,7743600950,view_item,Netherlands,desktop,(direct),(none),(direct)
+2021-01-25 14:24:52.800269 UTC,2189246.7131725512,7743600950,session_start,Netherlands,desktop,(direct),(none),(direct)
+2021-01-25 03:25:50.511524 UTC,2196642.7409224638,6615846673,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:00:33.090711 UTC,2202763.4301930946,1295028677,session_start,Sweden,desktop,(direct),(none),(direct)
+2021-01-25 09:00:38.097077 UTC,2202763.4301930946,1295028677,view_item,Sweden,desktop,(direct),(none),(direct)
+2021-01-25 12:01:07.966908 UTC,2212265.4205592575,5227147591,view_item,Germany,mobile,<Other>,<Other>,<Other>
+2021-01-25 11:49:45.468241 UTC,2212265.4205592575,5227147591,session_start,Germany,mobile,<Other>,<Other>,<Other>
+2021-01-25 12:03:32.779828 UTC,2212265.4205592575,5227147591,view_item,Germany,mobile,<Other>,<Other>,<Other>
+2021-01-25 12:01:18.682885 UTC,2212265.4205592575,5227147591,view_item,Germany,mobile,<Other>,<Other>,<Other>
+2021-01-25 12:41:29.887611 UTC,2212606.8917502696,4706081061,view_item,Canada,desktop,google,organic,(organic)
+2021-01-25 12:41:24.846825 UTC,2212606.8917502696,4706081061,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 23:09:00.563567 UTC,2220202.9894376284,4550239626,session_start,Australia,mobile,<Other>,<Other>,<Other>
+2021-01-25 15:25:26.193702 UTC,2226284.7939175171,9446450776,session_start,Italy,desktop,<Other>,referral,(referral)
+2021-01-25 04:42:03.420051 UTC,2238514.6295316850,6489716841,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 23:41:02.967582 UTC,2246152.0056487466,6189741645,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 23:40:57.995963 UTC,2246152.0056487466,6189741645,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 14:54:54.435215 UTC,2256135.9593200235,4968480568,session_start,Morocco,mobile,(direct),(none),(direct)
+2021-01-25 07:28:54.562317 UTC,2269466.1286063485,3858008040,session_start,Canada,mobile,<Other>,referral,(referral)
+2021-01-25 18:18:15.411466 UTC,2269466.1286063485,3351767829,session_start,Canada,mobile,<Other>,referral,(referral)
+2021-01-25 07:30:59.410027 UTC,2269466.1286063485,3858008040,view_item,Canada,mobile,<Other>,referral,(referral)
+2021-01-25 08:23:43.668915 UTC,2283000.8954970509,6701162889,session_start,Ukraine,mobile,google,cpc,<Other>
+2021-01-25 23:29:48.675668 UTC,2288348.8259073310,5773237528,session_start,Costa Rica,desktop,google,organic,(organic)
+2021-01-25 09:25:24.838008 UTC,2288348.8259073310,7574093732,session_start,Costa Rica,desktop,google,organic,(organic)
+2021-01-25 02:08:35.844583 UTC,2289023.4813940789,5580789721,session_start,Sweden,desktop,<Other>,<Other>,<Other>
+2021-01-25 15:33:06.271831 UTC,2289205.0874511481,4240726843,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 23:57:31.363191 UTC,2300456.5081901653,6768430354,session_start,United Kingdom,desktop,<Other>,<Other>,<Other>
+2021-01-25 00:01:38.122148 UTC,2302241.6650002975,8840180439,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 19:55:19.679484 UTC,2304272.1065456196,4404609155,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 19:55:21.974577 UTC,2304272.1065456196,4404609155,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 18:12:43.554995 UTC,2305323.8382319088,8696449019,add_shipping_info,Peru,desktop,google,organic,(organic)
+2021-01-25 18:11:09.298945 UTC,2305323.8382319088,8696449019,add_shipping_info,Peru,desktop,google,organic,(organic)
+2021-01-25 18:08:23.314486 UTC,2305323.8382319088,8696449019,session_start,Peru,desktop,google,organic,(organic)
+2021-01-25 18:08:28.332329 UTC,2305323.8382319088,8696449019,view_item,Peru,desktop,google,organic,(organic)
+2021-01-25 02:54:18.066944 UTC,2316464.6670955467,8634248569,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 08:21:48.471473 UTC,2339452.7680324562,6871806787,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 08:53:24.747792 UTC,2342502.2910129481,7145158737,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 18:52:45.880157 UTC,2342971.6074063060,1911730016,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 18:51:21.985663 UTC,2342971.6074063060,1911730016,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 18:03:41.835862 UTC,2342971.6074063060,1911730016,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 21:34:08.233774 UTC,2342971.6074063060,4647381016,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 18:35:51.446184 UTC,2342971.6074063060,1911730016,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 18:39:27.205750 UTC,2342971.6074063060,1911730016,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 18:39:18.993664 UTC,2342971.6074063060,1911730016,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 17:31:24.807212 UTC,2373338.3622617535,2983157894,session_start,South Korea,mobile,(direct),(none),(direct)
+2021-01-25 04:57:05.413876 UTC,2379232.0765987115,5275972016,session_start,India,tablet,google,organic,(organic)
+2021-01-25 10:16:34.123289 UTC,2387466.7324403112,3064090295,session_start,Italy,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 10:16:39.159597 UTC,2387466.7324403112,3064090295,view_item,Italy,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 13:55:03.128465 UTC,2392890.0367004948,1315359295,view_item,United States,tablet,google,organic,(organic)
+2021-01-25 13:57:41.001747 UTC,2392890.0367004948,1315359295,view_item,United States,tablet,google,organic,(organic)
+2021-01-25 13:55:01.131715 UTC,2392890.0367004948,1315359295,session_start,United States,tablet,google,organic,(organic)
+2021-01-25 21:33:48.540917 UTC,2393244.2245274301,5709637740,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 20:29:59.596668 UTC,2393244.2245274301,5079229640,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 21:46:47.841362 UTC,2393244.2245274301,5709637740,add_shipping_info,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 20:41:20.387946 UTC,2393244.2245274301,5079229640,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 21:46:58.377191 UTC,2393244.2245274301,5709637740,add_payment_info,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:37:54.461736 UTC,2393244.2245274301,5709637740,add_shipping_info,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:38:21.188561 UTC,2393244.2245274301,5709637740,add_payment_info,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 02:45:23.094534 UTC,2393917.6157336532,3771424883,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 02:45:28.637449 UTC,2393917.6157336532,3771424883,view_item,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 22:01:25.836295 UTC,2412149.6145971965,3591754270,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 18:36:00.513020 UTC,2430051.6626138411,2657680186,session_start,Spain,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 16:36:39.529458 UTC,2430051.6626138411,2890676320,session_start,Spain,mobile,<Other>,organic,(organic)
+2021-01-25 13:00:03.063046 UTC,2436178.0554754564,3697399454,session_start,Switzerland,mobile,<Other>,<Other>,<Other>
+2021-01-25 02:45:49.180622 UTC,2445088.7430313784,7496879836,session_start,South Korea,mobile,<Other>,<Other>,<Other>
+2021-01-25 15:05:41.762109 UTC,2445970.8056042822,7508046772,session_start,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 18:32:15.259317 UTC,2447774.2833296266,1023958173,session_start,Australia,desktop,google,organic,(organic)
+2021-01-25 14:57:29.440989 UTC,2447787.0512927464,9286470025,session_start,Peru,desktop,google,organic,(organic)
+2021-01-25 06:07:22.529277 UTC,2448714.0186271614,4927524727,session_start,Germany,desktop,google,cpc,<Other>
+2021-01-25 06:07:26.820785 UTC,2448714.0186271614,4927524727,view_item,Germany,desktop,google,cpc,<Other>
+2021-01-25 13:42:18.650825 UTC,2451670.1906782769,8271446447,view_item,Japan,desktop,(direct),(none),(direct)
+2021-01-25 13:42:13.729054 UTC,2451670.1906782769,8271446447,session_start,Japan,desktop,(direct),(none),(direct)
+2021-01-25 19:45:27.197842 UTC,2468890.5242611540,4703246417,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 12:31:21.655582 UTC,2476751.3358027641,4456472342,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 07:22:33.121234 UTC,2478859.0958473642,2648444333,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 03:58:29.167419 UTC,2479769.1526785503,3973226359,session_start,Brazil,desktop,google,cpc,<Other>
+2021-01-25 17:25:30.441450 UTC,2483506.0869774088,5570422266,session_start,United Kingdom,desktop,google,organic,(organic)
+2021-01-25 19:51:30.075233 UTC,2483924.3043032227,6741985255,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 15:40:29.314566 UTC,2485582.2565466160,8925151893,session_start,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 14:13:51.381195 UTC,2488909.7712528782,6680042626,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 18:13:10.622600 UTC,2488909.7712528782,5691414306,view_item,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 18:12:43.126204 UTC,2488909.7712528782,5691414306,view_item,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 18:12:38.107434 UTC,2488909.7712528782,5691414306,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 14:50:32.462957 UTC,2493293.0028576277,1884471052,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:43:29.807214 UTC,2495878.1006998369,7314996526,session_start,India,mobile,google,organic,(organic)
+2021-01-25 20:14:58.305172 UTC,2496826.9411494728,5287621753,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 20:14:05.206622 UTC,2499937.3077310835,4727057669,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 12:41:05.877910 UTC,2507448.2304694619,5393721448,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 12:41:10.903663 UTC,2507448.2304694619,5393721448,view_item,India,mobile,(direct),(none),(direct)
+2021-01-25 00:22:55.233310 UTC,2512049.0606948440,7497602007,session_start,United States,desktop,<Other>,organic,(organic)
+2021-01-25 06:15:50.697616 UTC,2518969.1683352146,2244965031,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 03:16:21.755037 UTC,2518969.1683352146,9025619779,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 15:36:54.172229 UTC,2520727.5315511018,2058651533,view_item,United States,mobile,google,organic,(organic)
+2021-01-25 15:36:48.630033 UTC,2520727.5315511018,2058651533,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 07:38:49.971818 UTC,2521363.2443962860,6615748252,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 16:13:36.865225 UTC,2522139.8383510968,1387837079,session_start,China,desktop,(direct),(none),(direct)
+2021-01-25 13:44:15.745532 UTC,2530860.3042769813,1869734391,session_start,(not set),desktop,google,cpc,<Other>
+2021-01-25 05:47:40.356902 UTC,2531548.8040162512,4078620705,session_start,United States,mobile,google,cpc,<Other>
+2021-01-25 20:48:58.836064 UTC,2537739.5657282527,5622229443,session_start,United Kingdom,desktop,google,organic,(organic)
+2021-01-25 10:19:09.165916 UTC,2545681.2985666718,9661654690,view_item,Singapore,desktop,(direct),(none),(direct)
+2021-01-25 10:18:28.885189 UTC,2545681.2985666718,9661654690,session_start,Singapore,desktop,(direct),(none),(direct)
+2021-01-25 07:33:41.673738 UTC,2545681.2985666718,1577102894,session_start,Singapore,desktop,google,organic,(organic)
+2021-01-25 10:18:34.166987 UTC,2545681.2985666718,9661654690,view_item,Singapore,desktop,(direct),(none),(direct)
+2021-01-25 17:57:09.863055 UTC,2551919.9965944910,2463140329,session_start,Indonesia,desktop,google,organic,(organic)
+2021-01-25 10:43:47.981369 UTC,2563698.9660558980,9883778264,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 19:17:42.974213 UTC,2569739.8101031899,3176010724,add_payment_info,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:04:03.475803 UTC,2569739.8101031899,3176010724,view_item,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:17:53.272917 UTC,2569739.8101031899,3176010724,add_payment_info,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:17:29.371619 UTC,2569739.8101031899,3176010724,add_shipping_info,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:17:43.573514 UTC,2569739.8101031899,3176010724,add_shipping_info,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:18:18.727228 UTC,2569739.8101031899,3176010724,add_payment_info,Canada,desktop,google,cpc,<Other>
+2021-01-25 19:03:11.592870 UTC,2569739.8101031899,3176010724,session_start,Canada,desktop,google,cpc,<Other>
+2021-01-25 03:32:36.615630 UTC,2582940.0556137391,8994533352,session_start,France,mobile,google,cpc,<Other>
+2021-01-25 18:22:20.484750 UTC,2588294.9032416413,9744791808,view_item,Canada,mobile,google,organic,(organic)
+2021-01-25 18:17:07.517324 UTC,2588294.9032416413,9744791808,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 18:27:29.014733 UTC,2588294.9032416413,9744791808,view_item,Canada,mobile,google,organic,(organic)
+2021-01-25 18:30:16.110677 UTC,2588693.4592272163,2568860866,add_payment_info,India,mobile,(direct),(none),(direct)
+2021-01-25 18:29:53.803665 UTC,2588693.4592272163,2568860866,add_shipping_info,India,mobile,(direct),(none),(direct)
+2021-01-25 18:29:23.883567 UTC,2588693.4592272163,2568860866,add_shipping_info,India,mobile,(direct),(none),(direct)
+2021-01-25 18:23:08.735059 UTC,2588693.4592272163,2568860866,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 18:49:30.820660 UTC,2595381.0667623867,9250426349,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 15:29:46.134513 UTC,2595469.2565466160,648271634,session_start,Canada,desktop,google,cpc,<Other>
+2021-01-25 15:31:27.077279 UTC,2595469.2565466160,648271634,view_item,Canada,desktop,google,cpc,<Other>
+2021-01-25 00:49:02.140896 UTC,2603715.5567367727,9542530971,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 00:34:02.861797 UTC,2603715.5567367727,1896621048,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 13:20:54.115382 UTC,2605788.4109578463,8531129782,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 13:42:39.538767 UTC,2611208.9535810763,1836403244,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 02:03:45.307027 UTC,2618400.8912306043,8387318194,session_start,Canada,mobile,(direct),(none),(direct)
+2021-01-25 16:55:22.153898 UTC,2625474.4114888070,4914108531,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 16:55:20.195850 UTC,2625474.4114888070,4914108531,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 21:38:56.327904 UTC,2629264.3166268950,5778066591,session_start,Ireland,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:19:49.788510 UTC,2633518.7803764441,6732304608,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 16:24:44.076577 UTC,2635892.9894610071,1404413046,session_start,Singapore,mobile,<Other>,referral,(referral)
+2021-01-25 12:18:03.457860 UTC,2638495.6945211843,682709745,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 12:21:35.924593 UTC,2638495.6945211843,682709745,view_item,United States,desktop,google,cpc,<Other>
+2021-01-25 09:24:02.154263 UTC,2640319.0856252599,9560058573,view_item,United States,desktop,google,cpc,<Other>
+2021-01-25 09:24:00.802861 UTC,2640319.0856252599,9560058573,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 19:25:50.343480 UTC,2640931.6378569572,6141835804,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 11:46:23.939167 UTC,2642146.2215885687,7311861894,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 19:15:25.180692 UTC,2644329.3882049140,4181747061,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:13:56.693740 UTC,2644753.6493520713,6349528143,session_start,India,desktop,google,organic,(organic)
+2021-01-25 06:00:14.600731 UTC,2646586.2004138776,2176951028,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 22:15:53.803997 UTC,2647045.7294859565,8435607946,session_start,United Kingdom,mobile,<Other>,referral,(referral)
+2021-01-25 22:15:56.798486 UTC,2647045.7294859565,8435607946,view_item,United Kingdom,mobile,<Other>,referral,(referral)
+2021-01-25 19:54:36.652167 UTC,2651197.1532552824,8565351339,session_start,Canada,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:57:09.549068 UTC,2651929.2005736917,4666411329,session_start,Ukraine,desktop,google,organic,(organic)
+2021-01-25 08:40:57.113250 UTC,2654714.5308732829,5318156110,session_start,Philippines,mobile,google,organic,(organic)
+2021-01-25 08:31:21.092837 UTC,2656567.8824666686,4284232625,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 09:36:06.104040 UTC,2656567.8824666686,4433794344,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 22:48:32.962614 UTC,2656988.0708335473,6675234035,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 11:42:50.362997 UTC,2660894.3083163765,1487714005,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 01:11:13.940614 UTC,2668341.1477131345,8255138011,session_start,Ireland,mobile,google,organic,(organic)
+2021-01-25 21:29:55.105818 UTC,2669163.1559658095,7587373229,session_start,France,mobile,<Other>,<Other>,<Other>
+2021-01-25 03:00:07.789736 UTC,2688478.8058276748,8632422978,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 02:31:48.251231 UTC,2688478.8058276748,6845398297,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 16:57:17.361886 UTC,2694420.8268674392,1239076693,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 18:24:20.824422 UTC,2695135.7844226980,5965406876,session_start,India,mobile,google,organic,(organic)
+2021-01-25 17:34:07.011616 UTC,2704631.3551672775,3955486034,session_start,India,desktop,<Other>,referral,(referral)
+2021-01-25 17:36:20.688127 UTC,2704631.3551672775,3955486034,view_item,India,desktop,<Other>,referral,(referral)
+2021-01-25 19:57:13.599573 UTC,2723569.0998657978,9598195676,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 02:56:50.040237 UTC,2725242.1572737301,2966261825,view_item,India,mobile,(direct),(none),(direct)
+2021-01-25 02:56:45.493114 UTC,2725242.1572737301,2966261825,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 22:00:15.234155 UTC,2726490.4242272215,6266918069,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 05:22:32.282597 UTC,2727893.0209895784,6299190711,session_start,India,mobile,<Other>,organic,(organic)
+2021-01-25 21:19:52.654774 UTC,2729040.8972124128,2988479455,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 06:54:16.756532 UTC,2730031.9247226818,859103942,session_start,Portugal,mobile,google,cpc,<Other>
+2021-01-25 04:22:23.994967 UTC,2731814.6039278562,1960811688,session_start,Egypt,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 20:39:32.674172 UTC,2741015.0537328992,9720715017,view_item,Mexico,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 20:39:29.720185 UTC,2741015.0537328992,9720715017,session_start,Mexico,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 02:49:19.788956 UTC,2743953.0108334420,3553258597,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 00:50:31.463723 UTC,2751503.9887763994,4972738218,session_start,Netherlands,tablet,(direct),(none),(direct)
+2021-01-25 13:23:10.296184 UTC,2751983.3612543760,9971114782,session_start,India,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 04:29:13.141529 UTC,2753260.5957406637,5984716020,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 22:20:25.204818 UTC,2766869.1150503520,2033567747,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 22:27:47.078099 UTC,2766869.1150503520,2033567747,add_shipping_info,United States,mobile,<Other>,referral,(referral)
+2021-01-25 22:26:32.672061 UTC,2766869.1150503520,2033567747,view_item,United States,mobile,<Other>,referral,(referral)
+2021-01-25 22:26:48.558731 UTC,2766869.1150503520,2033567747,view_item,United States,mobile,<Other>,referral,(referral)
+2021-01-25 20:40:44.988395 UTC,2766869.1150503520,6712582513,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 22:28:19.557064 UTC,2766869.1150503520,2033567747,add_payment_info,United States,mobile,<Other>,referral,(referral)
+2021-01-25 15:21:59.949298 UTC,2774442.6858937799,7405560896,view_item,Philippines,desktop,google,organic,(organic)
+2021-01-25 15:23:23.359113 UTC,2774442.6858937799,7405560896,view_item,Philippines,desktop,google,organic,(organic)
+2021-01-25 15:21:39.498298 UTC,2774442.6858937799,7405560896,view_item,Philippines,desktop,google,organic,(organic)
+2021-01-25 15:21:34.012824 UTC,2774442.6858937799,7405560896,session_start,Philippines,desktop,google,organic,(organic)
+2021-01-25 07:01:56.891229 UTC,2776500.4025813063,5993390158,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 09:02:53.925645 UTC,2784357.1432589576,6888117965,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 23:22:12.226659 UTC,2786317.5531870225,626487688,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 05:19:33.189447 UTC,2787014.3679925140,810018247,session_start,Argentina,mobile,<Other>,organic,(organic)
+2021-01-25 01:43:27.096982 UTC,2798470.7328052050,4781723467,session_start,Portugal,desktop,<Other>,organic,(organic)
+2021-01-25 22:49:35.938854 UTC,2798773.3678189830,824828196,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 22:43:08.539544 UTC,2798773.3678189830,824828196,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 22:46:47.360332 UTC,2798773.3678189830,824828196,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 03:38:58.333151 UTC,2798934.1669190108,1556865048,add_shipping_info,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 03:35:04.541002 UTC,2798934.1669190108,1556865048,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 03:39:36.216752 UTC,2798934.1669190108,1556865048,add_payment_info,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 03:37:49.923475 UTC,2798934.1669190108,1556865048,add_shipping_info,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 19:35:42.127318 UTC,2801511.1336263011,1277312870,session_start,Canada,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 19:38:51.720065 UTC,2801537.9700925244,5966096836,session_start,Brazil,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:23:26.706623 UTC,2809562.2345413065,9452659027,view_item,Poland,desktop,google,organic,(organic)
+2021-01-25 12:23:21.693597 UTC,2809562.2345413065,9452659027,session_start,Poland,desktop,google,organic,(organic)
+2021-01-25 17:27:06.412965 UTC,2811809.2118939780,853131337,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 17:27:11.463681 UTC,2811809.2118939780,853131337,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 16:36:23.112712 UTC,2816192.7370843607,3165711277,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 12:03:49.759113 UTC,2837252.3853050020,9489545179,session_start,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 21:00:35.901021 UTC,2845863.5877148904,5269285526,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 13:19:50.115955 UTC,2850324.1794848660,3358114081,session_start,Spain,desktop,(direct),(none),(direct)
+2021-01-25 08:13:48.011529 UTC,2859460.2495439595,8364178752,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 08:13:51.791161 UTC,2859460.2495439595,8364178752,view_item,India,desktop,(direct),(none),(direct)
+2021-01-25 01:10:57.517765 UTC,2866057.8822315150,3757681036,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 23:28:23.542198 UTC,2866082.7534594611,6875004835,session_start,India,mobile,google,organic,(organic)
+2021-01-25 00:30:13.628432 UTC,2869238.6590794100,991509850,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 12:46:59.361287 UTC,2872478.5931443987,9609969555,session_start,India,mobile,<Other>,referral,(referral)
+2021-01-25 17:29:58.063376 UTC,2881008.5348795328,3221591426,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 11:12:12.866557 UTC,2882138.1643961145,6166108774,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 16:38:41.596018 UTC,2882226.5128401602,1359606972,session_start,Singapore,mobile,google,organic,(organic)
+2021-01-25 18:17:50.992443 UTC,2884657.2552977969,8981427976,session_start,Canada,desktop,google,cpc,<Other>
+2021-01-25 18:45:06.345825 UTC,2888803.6676862563,6699742410,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 16:06:58.425252 UTC,2889380.0850018476,5526119287,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 15:33:57.154822 UTC,2890340.8197807716,6925942915,session_start,Netherlands,desktop,(direct),(none),(direct)
+2021-01-25 15:45:21.620753 UTC,2897298.0860596501,7537300016,session_start,Turkey,mobile,google,organic,(organic)
+2021-01-25 05:01:41.637058 UTC,2899856.8483179206,9996985238,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:25:16.268620 UTC,2914134.3141767487,5656370404,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 17:02:42.510018 UTC,2917249.0320271963,7745064996,session_start,Spain,mobile,(direct),(none),(direct)
+2021-01-25 17:02:48.160841 UTC,2917249.0320271963,7745064996,view_item,Spain,mobile,(direct),(none),(direct)
+2021-01-25 00:56:56.568660 UTC,2929224.3478328289,7503968792,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 01:20:44.556205 UTC,2937879.5000343000,476621619,session_start,China,desktop,google,organic,(organic)
+2021-01-25 01:20:49.234049 UTC,2937879.5000343000,476621619,view_item,China,desktop,google,organic,(organic)
+2021-01-25 07:12:05.711115 UTC,2959277.2570511804,3723925328,session_start,United Arab Emirates,desktop,google,organic,(organic)
+2021-01-25 08:43:16.315696 UTC,2960233.4714418274,6904258763,session_start,Taiwan,desktop,google,organic,(organic)
+2021-01-25 02:48:50.895410 UTC,2962965.9501884004,1707351121,session_start,Egypt,desktop,google,organic,(organic)
+2021-01-25 11:45:11.931910 UTC,2969567.0556011473,3457185928,session_start,Canada,desktop,<Other>,referral,(referral)
+2021-01-25 04:57:10.552919 UTC,2970317.5705297664,1647526961,session_start,India,desktop,google,cpc,<Other>
+2021-01-25 04:57:12.904564 UTC,2970317.5705297664,1647526961,view_item,India,desktop,google,cpc,<Other>
+2021-01-25 11:52:03.182188 UTC,2972282.1182824882,1312077280,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 01:47:56.500465 UTC,2982105.8882328192,9387188223,view_item,Portugal,desktop,google,organic,(organic)
+2021-01-25 01:47:27.360150 UTC,2982105.8882328192,9387188223,session_start,Portugal,desktop,google,organic,(organic)
+2021-01-25 08:21:14.632967 UTC,2984922.5668660873,3202789610,session_start,Turkey,mobile,<Other>,<Other>,<Other>
+2021-01-25 23:59:13.983316 UTC,2987552.3260687953,9090823796,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 07:00:39.375951 UTC,2987620.5641467547,3419612677,view_item,United States,mobile,<Other>,referral,(referral)
+2021-01-25 07:00:36.928143 UTC,2987620.5641467547,3419612677,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 20:17:19.124163 UTC,2996603.9858320686,9618686242,session_start,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 14:58:40.208382 UTC,2997096.3052121540,7727700280,session_start,Taiwan,desktop,(direct),(none),(direct)
+2021-01-25 14:58:41.568083 UTC,2997096.3052121540,7727700280,view_item,Taiwan,desktop,(direct),(none),(direct)
+2021-01-25 20:28:41.281949 UTC,3008892.8597403021,1047409679,session_start,Canada,desktop,<Other>,referral,(referral)
+2021-01-25 02:17:46.833249 UTC,3015173.9291125179,8872406936,session_start,South Korea,desktop,<Other>,referral,(referral)
+2021-01-25 02:36:04.104686 UTC,3030215.1171152742,4183194594,session_start,China,desktop,<Other>,<Other>,<Other>
+2021-01-25 19:13:07.386504 UTC,3033910.3558600569,2427754335,session_start,Germany,desktop,<Other>,referral,(referral)
+2021-01-25 23:22:16.124469 UTC,3039145.4910050616,7713707724,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 19:40:20.344955 UTC,3046068.5705464638,3769017895,session_start,Thailand,desktop,google,organic,(organic)
+2021-01-25 19:40:25.376917 UTC,3046068.5705464638,3769017895,view_item,Thailand,desktop,google,organic,(organic)
+2021-01-25 19:40:44.494095 UTC,3046068.5705464638,3769017895,view_item,Thailand,desktop,google,organic,(organic)
+2021-01-25 13:52:43.807111 UTC,3046582.6441632667,3660255756,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 20:37:02.617717 UTC,3047476.3849439007,1430257471,view_item,Canada,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:36:57.596757 UTC,3047476.3849439007,1430257471,session_start,Canada,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:00:01.950709 UTC,3053575.5505296349,2951424089,session_start,Japan,desktop,<Other>,<Other>,<Other>
+2021-01-25 21:51:42.890103 UTC,3059771.8145493962,7285248638,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 17:10:01.199085 UTC,3064545.2019467351,7036149362,add_shipping_info,France,desktop,(direct),(none),(direct)
+2021-01-25 17:07:10.249110 UTC,3064545.2019467351,7036149362,add_shipping_info,France,desktop,(direct),(none),(direct)
+2021-01-25 17:00:34.886207 UTC,3064545.2019467351,7036149362,view_item,France,desktop,(direct),(none),(direct)
+2021-01-25 17:11:07.884125 UTC,3064545.2019467351,7036149362,add_payment_info,France,desktop,(direct),(none),(direct)
+2021-01-25 17:11:36.567366 UTC,3064545.2019467351,7036149362,add_payment_info,France,desktop,(direct),(none),(direct)
+2021-01-25 17:10:51.750018 UTC,3064545.2019467351,7036149362,add_shipping_info,France,desktop,(direct),(none),(direct)
+2021-01-25 16:57:03.001544 UTC,3064545.2019467351,7036149362,session_start,France,desktop,(direct),(none),(direct)
+2021-01-25 18:45:26.635777 UTC,3064545.2019467351,8070380768,session_start,France,desktop,google,organic,(organic)
+2021-01-25 19:22:03.725445 UTC,3075399.3032187654,12765431,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 19:22:01.608135 UTC,3075399.3032187654,12765431,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 17:42:57.327457 UTC,3078492.5129137486,3552596591,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 16:34:10.809727 UTC,3079766.6871197027,8748274886,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 18:23:07.424844 UTC,3087910.5236240987,7166073790,session_start,Singapore,desktop,google,organic,(organic)
+2021-01-25 14:16:59.494540 UTC,3087910.5236240987,7475211623,session_start,Singapore,desktop,(direct),(none),(direct)
+2021-01-25 02:41:22.224638 UTC,3094246.4261048676,3763800888,session_start,Mexico,desktop,<Other>,<Other>,<Other>
+2021-01-25 06:26:02.001822 UTC,3095092.3900144089,5009847846,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 06:26:07.354037 UTC,3095092.3900144089,5009847846,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 23:23:42.197947 UTC,3102252.0749848171,8102817228,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 18:35:37.437116 UTC,3116494.3031889517,480892577,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 22:10:55.704450 UTC,3125533.8207332044,9632611995,session_start,France,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 07:12:14.559461 UTC,3125533.8207332044,3818581857,session_start,France,desktop,<Other>,referral,(referral)
+2021-01-25 03:13:25.467153 UTC,3125546.2187560861,788697179,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 02:30:00.800708 UTC,3139967.3980874673,7957577102,session_start,Canada,mobile,(direct),(none),(direct)
+2021-01-25 11:37:46.518552 UTC,3153959.1736193353,6279883037,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 08:38:03.180201 UTC,3162361.3628476098,934861458,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 23:38:35.461487 UTC,3173458.3840231983,6745212645,session_start,India,mobile,<Other>,organic,(organic)
+2021-01-25 17:42:32.962015 UTC,3175313.6545107515,7564991128,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:22:36.057502 UTC,3177820.6638671924,8138461038,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 13:40:45.956742 UTC,3180102.2872119377,6523134387,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 07:08:33.954394 UTC,3183955.8883440371,6998695229,session_start,France,desktop,google,organic,(organic)
+2021-01-25 18:17:28.697152 UTC,3190708.6804585578,8943239070,session_start,Belgium,mobile,<Other>,referral,(referral)
+2021-01-25 06:40:30.871114 UTC,3199343.4709547921,4350837863,session_start,Australia,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 01:33:32.554875 UTC,3200554.7006705162,1416760201,session_start,Vietnam,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 08:57:05.148071 UTC,3201904.7720821329,5136327253,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 11:21:57.957564 UTC,3204400.1455582629,4079143524,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 06:03:04.601902 UTC,3211579.4766199168,769165170,session_start,Jamaica,mobile,<Other>,<Other>,<Other>
+2021-01-25 14:52:57.531763 UTC,3214122.9879165303,9895180418,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:07:51.273696 UTC,3214222.1801065676,3590275499,session_start,Ireland,desktop,google,cpc,<Other>
+2021-01-25 09:44:54.722672 UTC,3216099.5779280197,6975282332,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 09:28:35.883056 UTC,3216099.5779280197,3108325981,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:28:47.572948 UTC,3224172.2027571092,4430127781,session_start,Pakistan,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 10:39:50.550154 UTC,3224174.5108858446,8077738532,session_start,Poland,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:06:47.347311 UTC,3224174.5108858446,551845935,session_start,Poland,desktop,(direct),(none),(direct)
+2021-01-25 13:45:00.268079 UTC,3227233.0330803315,8874995381,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 13:48:45.671529 UTC,3227233.0330803315,8874995381,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 13:49:18.771026 UTC,3227233.0330803315,8874995381,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 19:54:32.968504 UTC,3230176.5022717137,4677194153,session_start,Brazil,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:59:48.492801 UTC,3230176.5022717137,6114992514,session_start,Brazil,mobile,(direct),(none),(direct)
+2021-01-25 16:00:45.790907 UTC,3230176.5022717137,6114992514,view_item,Brazil,mobile,(direct),(none),(direct)
+2021-01-25 17:02:01.780810 UTC,3233305.6364183918,1891916090,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 17:03:40.575766 UTC,3233305.6364183918,1891916090,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 17:09:20.459761 UTC,3233305.6364183918,1891916090,view_item,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 10:17:45.545463 UTC,3233682.5851590811,7179813735,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 08:13:59.289775 UTC,3242169.0907795772,6784383896,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 04:42:11.204821 UTC,3242270.2188391858,8981832746,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 16:02:58.672531 UTC,3250819.7675949169,1892152949,view_item,India,mobile,google,cpc,<Other>
+2021-01-25 16:02:56.787271 UTC,3250819.7675949169,1892152949,session_start,India,mobile,google,cpc,<Other>
+2021-01-25 23:25:41.666950 UTC,3254943.2771146243,9636183575,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 09:22:26.744693 UTC,3261226.4963528691,4796979747,session_start,Czechia,mobile,<Other>,<Other>,<Other>
+2021-01-25 01:20:14.191325 UTC,3264053.6276281061,5816220774,view_item,Hong Kong,desktop,google,cpc,<Other>
+2021-01-25 01:20:10.639116 UTC,3264053.6276281061,5816220774,session_start,Hong Kong,desktop,google,cpc,<Other>
+2021-01-25 08:26:08.231432 UTC,3268192.6544323180,4800925250,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 16:32:13.141149 UTC,3278588.8632227650,9720876972,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 10:15:13.735747 UTC,3278901.2957263081,5151389417,session_start,New Zealand,desktop,<Other>,organic,(organic)
+2021-01-25 15:19:22.897234 UTC,3297308.9037183473,2739993488,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 05:10:18.156214 UTC,3297490.6056458764,4156558263,session_start,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 13:41:35.508188 UTC,3311381.2630485662,7069744908,view_item,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 13:50:07.618755 UTC,3311381.2630485662,7069744908,view_item,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 13:05:18.759300 UTC,3311381.2630485662,7069744908,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 11:14:44.272694 UTC,3311381.2630485662,2513770137,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 13:25:43.842170 UTC,3311381.2630485662,7069744908,view_item,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 10:04:35.946074 UTC,3311381.2630485662,953905640,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 13:25:00.832117 UTC,3316206.5385626844,2891830987,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 02:30:04.574593 UTC,3317222.1553463846,1261987781,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 04:23:44.529083 UTC,3320091.4024910848,1953560017,session_start,Netherlands,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:51:47.576764 UTC,3325445.5633589999,6043505434,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 22:04:04.937433 UTC,3325521.6097253682,7885354661,session_start,Brazil,desktop,(direct),(none),(direct)
+2021-01-25 19:51:37.868866 UTC,3326273.3112072013,3887537090,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 13:30:38.687854 UTC,3331216.9247094171,7666956146,session_start,Egypt,desktop,google,organic,(organic)
+2021-01-25 07:55:05.143070 UTC,3332409.1259230398,2735310460,session_start,Lithuania,mobile,<Other>,organic,(organic)
+2021-01-25 18:44:49.716112 UTC,3333555.8180638692,8447470572,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 18:44:45.388930 UTC,3333555.8180638692,8447470572,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 16:23:24.175930 UTC,3345751.8858203795,2787082797,session_start,India,mobile,google,organic,(organic)
+2021-01-25 02:24:49.690988 UTC,3347832.9047119342,9295107888,session_start,Mexico,mobile,<Other>,referral,(referral)
+2021-01-25 08:00:26.750937 UTC,3351646.4154214072,9194272047,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 08:00:28.329503 UTC,3351646.4154214072,9194272047,view_item,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 13:10:02.568729 UTC,3362740.4086142200,7171170976,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 16:21:20.325757 UTC,3369390.1526830225,2425738675,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 14:51:18.977933 UTC,3370014.7156342959,6572938306,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 14:51:17.924394 UTC,3370014.7156342959,6572938306,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:38:21.303179 UTC,3371085.5866014772,7414243918,session_start,Taiwan,desktop,google,organic,(organic)
+2021-01-25 04:33:32.373823 UTC,3384745.3443001717,7253551070,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 17:21:36.380013 UTC,3386873.3162861319,8958297620,session_start,Canada,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 19:54:40.082000 UTC,3393384.2198980367,5104929875,session_start,Belgium,mobile,google,organic,(organic)
+2021-01-25 14:43:14.467202 UTC,3399409.1823048853,2229995264,session_start,India,mobile,google,cpc,<Other>
+2021-01-25 14:54:01.375963 UTC,3399604.5071918426,353640106,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 19:49:03.076944 UTC,3400117.6401422206,237356781,session_start,Russia,desktop,google,organic,(organic)
+2021-01-25 15:35:19.509851 UTC,3405926.1895745853,1622818526,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 01:43:16.023336 UTC,3421670.4322863054,8204604765,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 22:35:39.349619 UTC,3448225.1765980561,3431124137,session_start,Russia,desktop,google,organic,(organic)
+2021-01-25 23:40:06.072763 UTC,3455577.2631152994,2396759581,session_start,Russia,desktop,(direct),(none),(direct)
+2021-01-25 16:46:48.873501 UTC,3460466.7067686637,4845027678,session_start,Jamaica,mobile,<Other>,<Other>,<Other>
+2021-01-25 08:05:14.359125 UTC,3466643.6367534223,4203982537,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 23:10:44.400250 UTC,3485187.0848739192,8405993393,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 21:10:49.429123 UTC,3489100.6218748032,9528906920,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 15:46:34.069830 UTC,3490003.5091478848,9353317091,session_start,Spain,desktop,google,cpc,<Other>
+2021-01-25 06:40:40.398784 UTC,3496858.0631865670,9169365808,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 06:58:58.483242 UTC,3497628.3948165839,7689616161,session_start,Pakistan,mobile,google,organic,(organic)
+2021-01-25 22:57:12.209845 UTC,3505705.1347566618,4593722413,session_start,Bangladesh,mobile,google,organic,(organic)
+2021-01-25 15:02:05.457136 UTC,3518168.6790101853,8857542104,session_start,Philippines,mobile,(direct),(none),(direct)
+2021-01-25 08:50:02.170466 UTC,3518681.5571822382,9975218454,session_start,Japan,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:11:50.828533 UTC,3526351.1816596637,9138340447,session_start,Germany,desktop,(direct),(none),(direct)
+2021-01-25 19:23:03.082067 UTC,3528128.6443140072,9738334088,session_start,Spain,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 19:23:38.236610 UTC,3528128.6443140072,9738334088,view_item,Spain,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 19:24:17.228755 UTC,3528128.6443140072,9738334088,view_item,Spain,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 16:33:33.285146 UTC,3528128.6443140072,4639386129,session_start,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 16:34:23.500611 UTC,3528128.6443140072,4639386129,view_item,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 17:26:24.844424 UTC,3531543.0617254826,3702926601,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 09:25:49.900219 UTC,3532166.4862927085,2360674934,session_start,Spain,desktop,<Other>,<Other>,<Other>
+2021-01-25 23:01:44.045199 UTC,3533634.3701369499,1664355998,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 04:17:46.187471 UTC,3533931.2489127234,8259098464,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 04:08:58.379930 UTC,3533931.2489127234,8259098464,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 04:51:52.474604 UTC,3545113.0690605557,9625510045,session_start,Hong Kong,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 16:38:27.854311 UTC,3545660.1440151961,1851366666,session_start,Argentina,desktop,google,organic,(organic)
+2021-01-25 21:41:51.384576 UTC,3550053.7984225271,9112691078,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 21:41:48.840094 UTC,3550053.7984225271,9112691078,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 22:13:27.462892 UTC,3559309.4296094973,7360894854,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 08:40:01.332274 UTC,3559309.4296094973,8956650510,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:04:03.556301 UTC,3560441.0443660767,5480579034,session_start,Belgium,desktop,google,organic,(organic)
+2021-01-25 09:14:28.385276 UTC,3568476.4121179724,140903776,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 01:39:54.040026 UTC,3570503.8268083507,8503528872,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 13:06:26.395921 UTC,3572236.7477234372,7660027577,session_start,India,mobile,google,organic,(organic)
+2021-01-25 07:26:56.258996 UTC,3577427.2300778371,1981777391,session_start,Philippines,desktop,<Other>,referral,(referral)
+2021-01-25 01:58:17.980788 UTC,3583040.2170954009,8527102273,session_start,Switzerland,mobile,<Other>,<Other>,<Other>
+2021-01-25 19:54:24.045047 UTC,3589210.3356330200,7748563146,session_start,China,desktop,(direct),(none),(direct)
+2021-01-25 00:44:29.057996 UTC,3593780.1489623933,5208054374,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 12:50:21.662201 UTC,3597049.0980743282,9974880749,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 18:11:11.619437 UTC,3599149.2611491664,1048458073,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 13:33:16.127304 UTC,3605016.1876955316,8794733543,session_start,Hong Kong,desktop,(direct),(none),(direct)
+2021-01-25 17:02:15.982211 UTC,3607563.3895180993,7249870623,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 17:06:03.602162 UTC,3607563.3895180993,7249870623,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 20:51:10.573346 UTC,3611901.0550563036,961000000,view_item,Germany,desktop,(direct),(none),(direct)
+2021-01-25 20:51:05.552261 UTC,3611901.0550563036,961000000,session_start,Germany,desktop,(direct),(none),(direct)
+2021-01-25 04:31:09.519652 UTC,3617811.5125876501,116466884,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 03:31:41.783981 UTC,3627605.1047425641,5638649898,session_start,India,desktop,google,cpc,<Other>
+2021-01-25 06:05:14.017661 UTC,3627605.1047425641,5382437824,session_start,India,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 03:35:45.824887 UTC,3631250.9549005903,2048216949,session_start,India,desktop,google,organic,(organic)
+2021-01-25 03:00:39.237973 UTC,3631987.5592264828,698318766,session_start,India,desktop,google,cpc,<Other>
+2021-01-25 09:50:28.430246 UTC,3635956.4691705262,9536096058,session_start,Taiwan,desktop,google,organic,(organic)
+2021-01-25 21:07:43.354122 UTC,3656062.7172376657,1310236073,add_shipping_info,United States,mobile,<Other>,organic,(organic)
+2021-01-25 21:07:28.047306 UTC,3656062.7172376657,1310236073,add_shipping_info,United States,mobile,<Other>,organic,(organic)
+2021-01-25 17:33:06.431933 UTC,3656062.7172376657,5774594902,add_shipping_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:26:47.831448 UTC,3656062.7172376657,5774594902,add_shipping_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:02:44.949587 UTC,3656062.7172376657,1310236073,view_item,United States,mobile,<Other>,organic,(organic)
+2021-01-25 17:21:46.866182 UTC,3656062.7172376657,5774594902,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:05:11.066446 UTC,3656062.7172376657,1310236073,view_item,United States,mobile,<Other>,organic,(organic)
+2021-01-25 21:07:42.397763 UTC,3656062.7172376657,1310236073,add_payment_info,United States,mobile,<Other>,organic,(organic)
+2021-01-25 17:11:19.793091 UTC,3656062.7172376657,5774594902,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:08:05.751075 UTC,3656062.7172376657,1310236073,add_payment_info,United States,mobile,<Other>,organic,(organic)
+2021-01-25 20:57:22.373441 UTC,3656062.7172376657,1310236073,session_start,United States,mobile,<Other>,organic,(organic)
+2021-01-25 17:31:40.441248 UTC,3656062.7172376657,5774594902,add_payment_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:05:59.992067 UTC,3656062.7172376657,1310236073,view_item,United States,mobile,<Other>,organic,(organic)
+2021-01-25 19:43:31.561104 UTC,3656062.7172376657,5431029766,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 17:33:20.327186 UTC,3656062.7172376657,5774594902,add_payment_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:27:16.028205 UTC,3656062.7172376657,5774594902,add_payment_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 17:31:05.567311 UTC,3656062.7172376657,5774594902,add_shipping_info,United States,mobile,(direct),(none),(direct)
+2021-01-25 15:02:10.361072 UTC,3660270.8549247626,9154812839,session_start,Hong Kong,desktop,(direct),(none),(direct)
+2021-01-25 13:52:17.088857 UTC,3662487.4462295570,9369833438,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 11:04:21.208638 UTC,3664845.1801425724,9459081795,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 09:33:15.966743 UTC,3675162.4280681411,5041951803,session_start,India,mobile,(direct),(none),(direct)
+2021-01-25 04:31:13.446826 UTC,3678048.7376714004,2489980205,session_start,Philippines,mobile,google,organic,(organic)
+2021-01-25 14:46:20.724972 UTC,3681195.0204685254,1765386683,session_start,Mexico,desktop,google,organic,(organic)
+2021-01-25 14:49:15.420257 UTC,3681195.0204685254,1765386683,view_item,Mexico,desktop,google,organic,(organic)
+2021-01-25 05:25:02.987623 UTC,3683003.7438887998,1687435142,session_start,(not set),desktop,google,organic,(organic)
+2021-01-25 06:27:09.593858 UTC,3685239.9745784817,6590640660,session_start,Italy,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 09:01:44.629269 UTC,3689036.9989521088,7705711040,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 15:24:31.315358 UTC,3692891.3811750397,3520815950,session_start,India,desktop,google,organic,(organic)
+2021-01-25 18:22:03.424138 UTC,3694439.0324087860,9048315123,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 19:06:12.018778 UTC,3730478.4684814696,7530193979,session_start,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 16:51:21.756034 UTC,3733793.4158922945,921827308,session_start,Sweden,desktop,<Other>,(data deleted),(data deleted)
+2021-01-25 19:32:12.401589 UTC,3740796.3949938519,2107371719,session_start,Germany,mobile,google,organic,(organic)
+2021-01-25 04:19:08.975598 UTC,3742146.9278588751,2425548018,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 00:44:09.083843 UTC,3751583.4015142542,8603354324,session_start,France,mobile,(direct),(none),(direct)
+2021-01-25 15:55:46.436798 UTC,3759465.8622559344,1319527682,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 10:18:16.597440 UTC,3759505.7404078967,9736124565,session_start,South Korea,mobile,<Other>,<Other>,<Other>
+2021-01-25 13:16:41.960651 UTC,3760074.8701526140,3703382005,session_start,Australia,mobile,(direct),(none),(direct)
+2021-01-25 23:20:06.140801 UTC,3764253.3920480970,1766497543,session_start,United States,mobile,google,cpc,<Other>
+2021-01-25 07:53:39.671867 UTC,3769294.5478567980,3573918273,session_start,India,mobile,google,cpc,<Other>
+2021-01-25 07:53:39.823556 UTC,3769294.5478567980,3573918273,view_item,India,mobile,google,cpc,<Other>
+2021-01-25 09:10:11.590379 UTC,3774817.5027548606,9979883062,session_start,India,desktop,<Other>,referral,(referral)
+2021-01-25 15:50:56.727958 UTC,3776800.3970349198,4319022410,view_item,India,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:10:26.539024 UTC,3776800.3970349198,3891137463,session_start,India,desktop,google,organic,(organic)
+2021-01-25 15:50:34.917040 UTC,3776800.3970349198,4319022410,session_start,India,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 20:07:32.595339 UTC,3798593.7180275823,8932748775,session_start,United States,mobile,google,cpc,<Other>
+2021-01-25 04:23:45.717428 UTC,3809457.9450277828,671541467,session_start,Belgium,desktop,google,organic,(organic)
+2021-01-25 18:02:48.403838 UTC,3810029.8360504582,9551407742,session_start,Sweden,desktop,google,organic,(organic)
+2021-01-25 10:41:44.467296 UTC,3811997.8487963130,5262796217,session_start,Brazil,desktop,google,organic,(organic)
+2021-01-25 17:52:30.254529 UTC,3814732.6644555334,6840740357,session_start,Singapore,mobile,(direct),(none),(direct)
+2021-01-25 09:23:15.308861 UTC,3817273.1206743414,2901766206,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 05:08:26.049425 UTC,3825063.5539562929,1927995890,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 22:05:46.108467 UTC,3825667.2959178074,1841224610,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 06:29:53.690930 UTC,3831708.1429417438,7420712750,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 06:29:53.132752 UTC,3831708.1429417438,7420712750,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 04:11:11.303129 UTC,3836759.5973122520,7292074712,session_start,Ireland,mobile,<Other>,referral,(referral)
+2021-01-25 04:11:16.339205 UTC,3836759.5973122520,7292074712,view_item,Ireland,mobile,<Other>,referral,(referral)
+2021-01-25 20:05:54.374218 UTC,3843162.0950331347,8999791280,session_start,India,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 12:07:06.739423 UTC,3843626.1361393012,42963225,view_item,Brazil,desktop,google,organic,(organic)
+2021-01-25 12:06:12.641351 UTC,3843626.1361393012,42963225,session_start,Brazil,desktop,google,organic,(organic)
+2021-01-25 07:34:15.326841 UTC,3855124.8715202072,5563240596,session_start,France,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 19:54:40.372921 UTC,3860235.7790628928,6021895663,session_start,Canada,mobile,google,cpc,<Other>
+2021-01-25 19:50:17.347630 UTC,3860235.7790628928,8720413843,session_start,Canada,mobile,(direct),(none),(direct)
+2021-01-25 03:21:56.891418 UTC,3870545.2172659545,7729326647,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 06:47:37.933221 UTC,3875244.6691208221,8384709627,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 17:36:35.876022 UTC,3877486.7761649558,2983157894,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 17:37:52.911992 UTC,3877486.7761649558,2983157894,view_item,United States,desktop,(direct),(none),(direct)
+2021-01-25 04:44:34.612670 UTC,3883729.9220923989,5580235169,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 15:13:31.417451 UTC,3898774.2131305168,7448605941,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 14:25:25.685830 UTC,3903022.9217339157,3322141806,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 12:37:34.446377 UTC,3903259.6420982880,1870909216,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 12:43:20.514975 UTC,3903259.6420982880,4228574793,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:43:15.485175 UTC,3903259.6420982880,4228574793,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 06:46:06.712389 UTC,3911253.3147998625,4938956344,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 22:31:02.776962 UTC,3916131.4953396926,7902524273,session_start,Singapore,desktop,<Other>,<Other>,<Other>
+2021-01-25 22:34:42.831164 UTC,3916131.4953396926,7902524273,view_item,Singapore,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:38:29.139148 UTC,3931191.6813956744,3928033628,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 13:06:40.786578 UTC,3933559.6451761763,30866336,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 13:07:53.813978 UTC,3933559.6451761763,30866336,view_item,Canada,desktop,(direct),(none),(direct)
+2021-01-25 04:55:52.809991 UTC,3939634.5274450677,5579375839,session_start,Canada,tablet,google,organic,(organic)
+2021-01-25 03:39:24.372042 UTC,3945132.7103135614,2736170871,session_start,Mexico,desktop,google,organic,(organic)
+2021-01-25 05:12:24.668357 UTC,3945132.7103135614,2423951916,view_item,Mexico,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 05:12:19.646025 UTC,3945132.7103135614,2423951916,session_start,Mexico,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 00:09:43.998113 UTC,3945680.8436220467,8509459581,view_item,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 00:09:37.640726 UTC,3945680.8436220467,8509459581,view_item,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 00:07:12.368801 UTC,3945680.8436220467,8509459581,session_start,United Kingdom,mobile,google,organic,(organic)
+2021-01-25 01:30:12.995492 UTC,3948000.9342539392,6593124930,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:50:36.354902 UTC,3963064.4501338707,9074739804,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 02:51:16.869789 UTC,3984315.0341143545,921582589,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 18:43:00.677643 UTC,3984388.8795900376,9315458449,session_start,India,desktop,google,organic,(organic)
+2021-01-25 12:11:14.658956 UTC,3987328.1109871326,9448342975,session_start,Russia,desktop,google,organic,(organic)
+2021-01-25 20:18:39.156120 UTC,3995271.3225490049,8451721725,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 18:59:10.449653 UTC,4000402.8658925020,3223736143,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 03:10:52.299149 UTC,4001018.0332596225,5476228348,session_start,Mexico,desktop,(direct),(none),(direct)
+2021-01-25 23:05:34.732498 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:12:58.848339 UTC,4003292.1841257318,1481399354,add_shipping_info,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 22:54:52.098892 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 22:57:07.742619 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:14:52.530346 UTC,4003292.1841257318,1481399354,add_shipping_info,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:15:16.844105 UTC,4003292.1841257318,1481399354,add_payment_info,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 22:53:22.929314 UTC,4003292.1841257318,1481399354,session_start,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 22:59:03.950721 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:06:19.173205 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:13:47.728339 UTC,4003292.1841257318,1481399354,add_payment_info,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 23:04:42.552588 UTC,4003292.1841257318,1481399354,view_item,Thailand,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 03:35:42.520713 UTC,4003883.8748463215,3159323456,view_item,Ireland,desktop,google,organic,(organic)
+2021-01-25 03:30:54.530251 UTC,4003883.8748463215,3159323456,session_start,Ireland,desktop,google,organic,(organic)
+2021-01-25 03:13:22.722476 UTC,4003883.8748463215,8491320528,session_start,Ireland,desktop,google,organic,(organic)
+2021-01-25 17:21:40.701749 UTC,4017481.6895399249,5988255327,session_start,Canada,desktop,(direct),(none),(direct)
+2021-01-25 00:35:01.754927 UTC,4023169.8561960986,7044877842,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 05:49:12.717389 UTC,4024838.2135911735,9230525216,session_start,Saudi Arabia,desktop,<Other>,referral,(referral)
+2021-01-25 18:07:17.151817 UTC,4025020.8896495733,3713149686,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 16:21:48.640222 UTC,4026006.5533539996,90174764,session_start,Switzerland,desktop,<Other>,referral,(referral)
+2021-01-25 16:21:53.648009 UTC,4026006.5533539996,90174764,view_item,Switzerland,desktop,<Other>,referral,(referral)
+2021-01-25 06:55:39.449040 UTC,4038152.2566873482,3298190324,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 23:39:20.367969 UTC,4042501.9772717733,3126801024,session_start,United Kingdom,desktop,google,cpc,<Other>
+2021-01-25 03:57:50.838703 UTC,4044524.1341907501,4752748872,session_start,Germany,desktop,google,organic,(organic)
+2021-01-25 03:57:55.843642 UTC,4044524.1341907501,4752748872,view_item,Germany,desktop,google,organic,(organic)
+2021-01-25 10:06:37.743559 UTC,4050290.6112020343,445986713,session_start,United Kingdom,desktop,<Other>,organic,(organic)
+2021-01-25 08:11:54.439585 UTC,4054013.0610732079,7722861017,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 08:11:59.458328 UTC,4054013.0610732079,7722861017,view_item,United States,mobile,<Other>,referral,(referral)
+2021-01-25 20:39:39.935348 UTC,4054947.1900563575,6561380452,session_start,South Korea,desktop,(direct),(none),(direct)
+2021-01-25 21:59:06.859465 UTC,4067267.1030688454,2848146066,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 19:52:15.651719 UTC,4067267.1030688454,900769308,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 12:59:40.147968 UTC,4068255.4165086336,7648357687,session_start,South Korea,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:28:00.689056 UTC,4070399.1631673357,9158462774,session_start,India,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 08:13:25.986170 UTC,4070872.6486063196,1746492130,session_start,Taiwan,desktop,google,organic,(organic)
+2021-01-25 09:48:50.917463 UTC,4076426.6719388854,3342980697,session_start,United States,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 05:42:17.475483 UTC,4076426.6719388854,3830401512,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 06:01:54.861022 UTC,4085461.7877768562,719281584,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 03:43:46.140707 UTC,4085898.9467650482,8997482757,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:08:56.878203 UTC,4090647.3913612750,4979635094,view_item,Portugal,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 09:08:52.026859 UTC,4090647.3913612750,4979635094,session_start,Portugal,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 17:59:26.405487 UTC,4093557.7608077562,2098906983,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:15:11.341206 UTC,4095051.8226152142,9916803784,session_start,Kenya,desktop,google,organic,(organic)
+2021-01-25 01:48:27.618980 UTC,4098983.0675595114,2899477944,session_start,Netherlands,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 01:48:32.621232 UTC,4098983.0675595114,2899477944,view_item,Netherlands,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 20:32:13.905162 UTC,4099439.7331533156,990123073,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 14:03:16.631260 UTC,4099560.6755056387,6991323210,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 22:02:55.622364 UTC,4109072.1944766940,3442299782,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 09:51:11.501333 UTC,4112613.8739676810,9163371030,session_start,Canada,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:56:21.218940 UTC,4116552.5219748682,3155834463,session_start,Canada,mobile,<Other>,<Other>,<Other>
+2021-01-25 21:47:44.021082 UTC,4122692.1106227268,7579638516,view_item,Indonesia,mobile,(direct),(none),(direct)
+2021-01-25 21:46:36.541314 UTC,4122692.1106227268,7579638516,view_item,Indonesia,mobile,(direct),(none),(direct)
+2021-01-25 21:46:03.263118 UTC,4122692.1106227268,7579638516,view_item,Indonesia,mobile,(direct),(none),(direct)
+2021-01-25 21:45:16.101542 UTC,4122692.1106227268,7579638516,session_start,Indonesia,mobile,(direct),(none),(direct)
+2021-01-25 13:57:19.203467 UTC,4125174.5506609829,9535277692,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 13:21:10.720191 UTC,4129267.1613736473,9273178165,view_item,Switzerland,desktop,<Other>,referral,(referral)
+2021-01-25 13:21:05.705764 UTC,4129267.1613736473,9273178165,session_start,Switzerland,desktop,<Other>,referral,(referral)
+2021-01-25 16:40:55.119927 UTC,4141642.5936585280,3049578244,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 20:11:07.679398 UTC,4142123.8053582197,1934568370,view_item,United States,mobile,(direct),(none),(direct)
+2021-01-25 12:11:01.850174 UTC,4142123.8053582197,6742495884,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 20:11:02.666012 UTC,4142123.8053582197,1934568370,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 06:13:32.785979 UTC,4156790.2262760298,2998936930,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 10:27:43.565958 UTC,4164125.0295010106,1073557267,session_start,Italy,desktop,(direct),(none),(direct)
+2021-01-25 10:36:23.493758 UTC,4164125.0295010106,1073557267,add_payment_info,Italy,desktop,(direct),(none),(direct)
+2021-01-25 10:35:27.296396 UTC,4164125.0295010106,1073557267,add_shipping_info,Italy,desktop,(direct),(none),(direct)
+2021-01-25 10:33:20.637725 UTC,4171547.2345034176,8927370446,session_start,Spain,desktop,google,cpc,<Other>
+2021-01-25 13:22:00.840255 UTC,4172635.0322848847,6593213490,session_start,Canada,desktop,<Other>,referral,(referral)
+2021-01-25 03:03:14.752568 UTC,4173218.1999772358,6590876830,session_start,Peru,desktop,google,organic,(organic)
+2021-01-25 10:08:12.055061 UTC,4173218.1999772358,6321644017,session_start,Peru,desktop,google,cpc,<Other>
+2021-01-25 11:25:54.922753 UTC,4173218.1999772358,6879288181,session_start,Peru,desktop,<Other>,referral,(referral)
+2021-01-25 10:44:10.875345 UTC,4177632.9870770150,4328392100,session_start,South Korea,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 10:44:42.150080 UTC,4177632.9870770150,4328392100,view_item,South Korea,mobile,(data deleted),(data deleted),(data deleted)
+2021-01-25 10:17:56.537889 UTC,4181035.6538056175,1832495661,session_start,Turkey,mobile,(direct),(none),(direct)
+2021-01-25 10:57:00.815856 UTC,4184875.8252021122,7814137099,session_start,Israel,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:54:15.759978 UTC,4187089.0772881951,1686193011,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 01:50:44.208357 UTC,4197737.3614545535,3301332371,session_start,United Kingdom,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 11:38:29.030145 UTC,4200766.2528768684,751405946,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 10:50:05.860031 UTC,4200766.2528768684,5828150405,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 21:01:55.111802 UTC,4205366.2704658968,7574079296,session_start,Indonesia,desktop,google,organic,(organic)
+2021-01-25 13:29:50.876049 UTC,4207433.0631509116,4937055765,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 12:28:06.906933 UTC,4210219.2351449669,9126578186,session_start,United States,mobile,<Other>,organic,(organic)
+2021-01-25 15:48:23.567110 UTC,4219998.7758696871,7257668819,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 07:46:34.878220 UTC,4222830.9802689196,8043083974,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 21:52:28.965942 UTC,4225788.2137400811,2431562017,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 07:23:56.612940 UTC,4230056.2952252508,4227890579,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 15:29:10.278374 UTC,4232230.1678020758,5539639806,session_start,Bangladesh,desktop,(direct),(none),(direct)
+2021-01-25 14:15:33.846051 UTC,4234502.0592489945,4823674975,session_start,Indonesia,desktop,google,organic,(organic)
+2021-01-25 18:18:56.759096 UTC,4236366.5713216494,3508738821,session_start,Japan,desktop,google,organic,(organic)
+2021-01-25 17:00:38.382730 UTC,4236711.9288281577,7723268854,session_start,Netherlands,mobile,(direct),(none),(direct)
+2021-01-25 23:40:07.496742 UTC,4239165.3296262112,9110084050,session_start,Puerto Rico,mobile,(direct),(none),(direct)
+2021-01-25 17:05:06.757412 UTC,4245239.3235094662,8597564605,session_start,Austria,tablet,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 02:12:32.411686 UTC,4254801.0067289483,6805161946,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 08:12:45.530505 UTC,4256937.4451968904,8803158782,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 05:17:38.110729 UTC,4258423.8896454000,330747442,session_start,United States,mobile,<Other>,organic,(organic)
+2021-01-25 02:27:35.238096 UTC,4268514.1036977319,3421941685,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 04:50:35.121930 UTC,4274331.5855614328,9445726278,session_start,Colombia,mobile,<Other>,<Other>,<Other>
+2021-01-25 12:57:25.191061 UTC,4284277.2693463991,6418140857,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 20:38:48.194232 UTC,4298368.2215119020,6382673414,session_start,Sri Lanka,desktop,google,organic,(organic)
+2021-01-25 01:42:09.108653 UTC,4312176.9987033750,9558301569,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 15:25:27.691576 UTC,4325537.8772171688,2187334709,view_item,United States,mobile,<Other>,organic,(organic)
+2021-01-25 15:23:32.692938 UTC,4325537.8772171688,2187334709,view_item,United States,mobile,<Other>,organic,(organic)
+2021-01-25 15:42:57.644928 UTC,4325537.8772171688,4382686546,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 15:23:27.642080 UTC,4325537.8772171688,2187334709,session_start,United States,mobile,<Other>,organic,(organic)
+2021-01-25 00:36:54.561524 UTC,4328633.8216412529,7500559002,session_start,Brazil,desktop,google,organic,(organic)
+2021-01-25 08:58:33.553641 UTC,4341795.5472462266,8527361965,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 08:59:22.563049 UTC,4341795.5472462266,8527361965,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 10:12:04.088060 UTC,4341795.5472462266,9316024192,view_item,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 08:59:44.324870 UTC,4341795.5472462266,8527361965,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 10:03:48.950896 UTC,4341795.5472462266,9316024192,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 08:44:43.122660 UTC,4341795.5472462266,8527361965,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 00:56:29.044981 UTC,4342169.0585632224,3830930572,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 21:23:07.233382 UTC,4346536.7983924891,3609965891,session_start,India,mobile,google,organic,(organic)
+2021-01-25 01:10:33.935915 UTC,4357875.9603791884,9230493037,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 22:16:29.282299 UTC,4369588.8981932547,5135483498,session_start,Canada,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 09:53:14.948423 UTC,4369979.1360255504,4292956898,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 09:53:19.976729 UTC,4369979.1360255504,4292956898,view_item,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 19:54:27.772568 UTC,4371278.8011961128,4050894673,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:12:56.822364 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:07:46.625207 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:09:24.205211 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:06:24.086524 UTC,4375719.8742260965,1695496550,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:08:47.531924 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:15:08.443108 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:07:24.436779 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:09:59.882005 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:09:35.994964 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 12:11:08.579168 UTC,4375719.8742260965,1695496550,view_item,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 20:27:15.627502 UTC,4385866.8866470302,6889768429,session_start,Germany,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 15:07:47.572360 UTC,4392058.2608873975,1349053260,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 15:09:32.265201 UTC,4392058.2608873975,1349053260,view_item,Canada,mobile,google,organic,(organic)
+2021-01-25 15:09:08.451673 UTC,4392058.2608873975,1349053260,view_item,Canada,mobile,google,organic,(organic)
+2021-01-25 15:08:00.048891 UTC,4392058.2608873975,1349053260,view_item,Canada,mobile,google,organic,(organic)
+2021-01-25 21:41:57.973881 UTC,4410794.6989166702,8855892771,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 11:05:08.730787 UTC,4418522.9881893022,6159067958,session_start,Israel,desktop,google,organic,(organic)
+2021-01-25 14:39:40.607247 UTC,4418966.2339333571,1837458304,session_start,South Korea,desktop,<Other>,<Other>,<Other>
+2021-01-25 15:47:34.601230 UTC,4422462.1974124879,3153399220,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 06:27:38.310745 UTC,4425158.5212521499,7930898468,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 19:56:29.408505 UTC,4426220.0565555566,4098862864,session_start,United Arab Emirates,mobile,<Other>,<Other>,<Other>
+2021-01-25 09:23:39.468422 UTC,4428905.6376218770,9561659043,session_start,Poland,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 03:46:13.100618 UTC,4430031.9202711046,2704861310,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 14:51:31.410866 UTC,4433118.4891108719,5755773847,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 01:28:09.166190 UTC,4441275.6952898775,839218652,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 00:43:26.862481 UTC,4441275.6952898775,7998178427,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 09:08:53.650395 UTC,4444860.4004492562,7757136858,session_start,China,desktop,<Other>,organic,(organic)
+2021-01-25 20:19:27.396110 UTC,4453839.0480654582,9340822872,session_start,China,desktop,(direct),(none),(direct)
+2021-01-25 04:06:29.380640 UTC,4454148.7328002962,8676959054,session_start,Philippines,desktop,<Other>,<Other>,<Other>
+2021-01-25 09:51:11.342273 UTC,4454764.3867766484,318576892,session_start,Canada,mobile,google,organic,(organic)
+2021-01-25 09:13:51.062785 UTC,4456594.0323320149,5840056798,session_start,United States,tablet,<Other>,<Other>,<Other>
+2021-01-25 09:13:56.103692 UTC,4456594.0323320149,5840056798,view_item,United States,tablet,<Other>,<Other>,<Other>
+2021-01-25 14:56:35.329049 UTC,4466012.4851933672,1781747380,session_start,United States,desktop,google,cpc,<Other>
+2021-01-25 22:09:43.049794 UTC,4472854.0612487048,6472577277,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 22:11:02.618879 UTC,4472854.0612487048,6472577277,view_item,United States,desktop,google,organic,(organic)
+2021-01-25 22:09:16.685844 UTC,4472854.0612487048,6472577277,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 04:23:16.720436 UTC,4479343.4226394111,2283615387,session_start,Taiwan,mobile,(direct),(none),(direct)
+2021-01-25 20:37:34.178434 UTC,4484649.3806254888,210469971,session_start,India,mobile,google,organic,(organic)
+2021-01-25 13:35:46.156635 UTC,4494848.2088381249,5861877176,session_start,South Africa,mobile,<Other>,<Other>,<Other>
+2021-01-25 08:20:38.816930 UTC,4501126.5037605839,2884320492,session_start,Canada,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:58:02.651181 UTC,4503564.7223572113,3077927537,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 13:28:58.199317 UTC,4511761.4533638708,5072528827,session_start,Canada,mobile,google,cpc,<Other>
+2021-01-25 09:20:24.348018 UTC,4516619.9093094699,1675043208,session_start,Hong Kong,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 23:50:25.523335 UTC,4517879.9546073373,3914846468,session_start,Vietnam,mobile,google,organic,(organic)
+2021-01-25 19:03:23.000239 UTC,4523349.8748299770,238856250,session_start,United States,desktop,<Other>,<Other>,<Other>
+2021-01-25 19:47:43.391913 UTC,4530461.6389025811,1683888975,session_start,Switzerland,mobile,(direct),(none),(direct)
+2021-01-25 03:55:17.144438 UTC,4534930.3051147823,1340854211,session_start,Hong Kong,desktop,<Other>,organic,(organic)
+2021-01-25 16:52:46.718472 UTC,4537895.5543332501,2782802430,add_payment_info,United States,desktop,<Other>,referral,(referral)
+2021-01-25 16:49:32.886548 UTC,4537895.5543332501,2782802430,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 16:49:12.763176 UTC,4537895.5543332501,2782802430,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 16:51:17.102915 UTC,4537895.5543332501,2782802430,add_shipping_info,United States,desktop,<Other>,referral,(referral)
+2021-01-25 03:52:51.443619 UTC,4540556.3962983685,1249773320,view_item,United States,desktop,<Other>,referral,(referral)
+2021-01-25 03:52:46.579852 UTC,4540556.3962983685,1249773320,session_start,United States,desktop,<Other>,referral,(referral)
+2021-01-25 06:48:18.568420 UTC,4546533.6207573360,2639150545,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 03:57:33.674560 UTC,4551273.9026395419,377119989,session_start,India,desktop,(direct),(none),(direct)
+2021-01-25 04:03:35.669681 UTC,4551273.9026395419,377119989,add_shipping_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:01:37.295402 UTC,4551273.9026395419,377119989,add_payment_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:04:03.877186 UTC,4551273.9026395419,377119989,add_payment_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:01:58.143355 UTC,4551273.9026395419,377119989,add_shipping_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:05:06.565930 UTC,4551273.9026395419,377119989,add_shipping_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:05:39.769542 UTC,4551273.9026395419,377119989,add_payment_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:01:12.015156 UTC,4551273.9026395419,377119989,add_shipping_info,India,desktop,(direct),(none),(direct)
+2021-01-25 04:06:01.662553 UTC,4551273.9026395419,377119989,add_payment_info,India,desktop,(direct),(none),(direct)
+2021-01-25 10:20:49.886229 UTC,4555573.8157856056,3296183657,session_start,United States,desktop,(direct),(none),(direct)
+2021-01-25 10:48:57.505454 UTC,4555573.8157856056,8993671593,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 21:28:28.559668 UTC,4561988.5239058763,8678220467,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 00:32:38.071029 UTC,4564581.8322636787,8314986517,session_start,India,desktop,<Other>,<Other>,<Other>
+2021-01-25 14:39:48.410409 UTC,4565483.3520938489,352864867,session_start,South Korea,tablet,google,organic,(organic)
+2021-01-25 03:40:14.010722 UTC,4571342.9521108466,7158342864,session_start,Canada,desktop,google,organic,(organic)
+2021-01-25 09:09:12.513900 UTC,4578492.2623447725,4764882584,session_start,United States,mobile,<Other>,referral,(referral)
+2021-01-25 13:44:44.955819 UTC,4580154.8558582004,3170958274,session_start,United States,mobile,<Other>,<Other>,<Other>
+2021-01-25 13:57:36.464858 UTC,4597245.2380271101,8146177510,session_start,Hong Kong,desktop,google,organic,(organic)
+2021-01-25 16:56:04.096311 UTC,4600770.1167812876,2165085367,session_start,India,mobile,<Other>,<Other>,<Other>
+2021-01-25 15:40:18.858865 UTC,4610273.0528509730,2789066841,session_start,United Kingdom,desktop,google,organic,(organic)
+2021-01-25 02:59:30.640298 UTC,4610454.0691049773,8600778487,session_start,Ecuador,desktop,<Other>,<Other>,<Other>
+2021-01-25 05:56:41.862797 UTC,4611623.4284859869,9818457674,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 02:15:46.335346 UTC,4629084.4836257465,8880665145,session_start,Russia,desktop,(direct),(none),(direct)
+2021-01-25 20:14:24.041185 UTC,4633383.1729639436,1094411836,session_start,United States,mobile,google,organic,(organic)
+2021-01-25 18:41:06.969540 UTC,4633383.1729639436,538827799,session_start,United States,mobile,(direct),(none),(direct)
+2021-01-25 20:14:29.048293 UTC,4633383.1729639436,1094411836,view_item,United States,mobile,google,organic,(organic)
+2021-01-25 02:42:27.025929 UTC,4654248.6444169407,7487697978,session_start,Malaysia,desktop,google,organic,(organic)
+2021-01-25 18:49:26.312271 UTC,4655633.7060423851,5935157251,session_start,Greece,mobile,google,cpc,<Other>
+2021-01-25 19:46:01.644267 UTC,4671466.9406457704,6268847457,view_item,United States,desktop,<Other>,organic,(organic)
+2021-01-25 19:37:16.241368 UTC,4671466.9406457704,6268847457,session_start,United States,desktop,<Other>,organic,(organic)
+2021-01-25 13:33:22.059433 UTC,4673387.2785728643,1141766292,session_start,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 13:33:27.069785 UTC,4673387.2785728643,1141766292,view_item,United States,desktop,(data deleted),(data deleted),(data deleted)
+2021-01-25 13:30:39.126730 UTC,4681297.3857867397,8121355698,session_start,United States,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 19:43:13.219177 UTC,4683719.3414869128,9388535122,session_start,Sweden,mobile,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 13:12:21.283785 UTC,4683966.2429337948,250229756,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 20:45:28.822286 UTC,4690564.8925810216,7286522642,session_start,Thailand,desktop,google,organic,(organic)
+2021-01-25 20:45:30.028749 UTC,4690564.8925810216,7286522642,view_item,Thailand,desktop,google,organic,(organic)
+2021-01-25 06:08:58.307583 UTC,4692975.1375856885,9546644951,session_start,Hungary,desktop,(direct),(none),(direct)
+2021-01-25 20:08:46.731423 UTC,4694841.3202363983,9149050133,view_item,India,tablet,google,organic,(organic)
+2021-01-25 20:08:44.567733 UTC,4694841.3202363983,9149050133,session_start,India,tablet,google,organic,(organic)
+2021-01-25 02:01:26.901807 UTC,4701123.3347785147,9715145493,session_start,United States,desktop,google,organic,(organic)
+2021-01-25 08:16:00.009728 UTC,4706006.2318401406,523984450,session_start,Spain,desktop,<Other>,referral,(referral)
+2021-01-25 21:46:07.914539 UTC,4708719.5673398969,4356789427,session_start,United States,desktop,shop.googlemerchandisestore.com,referral,(referral)
+2021-01-25 01:11:10.744440 UTC,4719570.3798997115,4729876440,session_start,Germany,mobile,google,organic,(organic)
+2021-01-25 01:11:13.999279 UTC,4719570.3798997115,4729876440,view_item,Germany,mobile,google,organic,(organic)
+2021-01-25 10:48:32.902473 UTC,4732224.6412623805,6672520333,session_start,Qatar,desktop,(direct),(none),(direct)
